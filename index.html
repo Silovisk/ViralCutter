@@ -110,6 +110,28 @@
 			color: #fff; /* Cor do texto para input no modo escuro */
 			border-color: #555; /* Cor da borda para input no modo escuro */
 		}
+		footer {
+			text-align: center; /* Centraliza o texto do footer */
+			padding: 20px; /* Adiciona um espaço ao redor do footer */
+			
+		}
+
+		.social-links {
+			display: flex; /* Utiliza flexbox para alinhar os itens em linha */
+			justify-content: center; /* Centraliza os itens no eixo principal */
+			margin: 10px 0; /* Margem vertical entre o texto e os ícones */
+		}
+
+		.social-links a {
+			margin: 0 10px; /* Espaçamento horizontal entre os ícones */
+		}
+
+		.social-links img {
+			width: 24px; /* Define um tamanho fixo para todas as imagens */
+			height: 24px; /* Define um tamanho fixo para todas as imagens */
+			object-fit: contain; /* Ajusta a imagem para caber no espaço sem distorcer */
+		}
+
 	</style>
 
 
@@ -154,7 +176,25 @@ Based on your analysis, return a structured text document containing the timesta
         </div>
     </div>
     <button onclick="convertSRTtoTSV()">Converter</button>
-    <div id="output"></div>
+    <div id="output">
+	<footer>
+		<p>Desenvolvido por Rafael Godoy | 2024</p>
+		<div class="social-links">
+			<a href="https://github.com/rafaelGodoyEbert" target="_blank">
+				<img src="./images/github.png" alt="GitHub">
+			</a>
+			<a href="https://twitter.com/GodoyEbert" target="_blank">
+				<img src="./images/twitter.png" alt="Twitter">
+			</a>
+			<a href="https://www.instagram.com/rafael.godoy.ebert/" target="_blank">
+				<img src="./images/instagram.png" alt="Instagram">
+			</a>
+			<a href="https://discord.gg/aihubbrasil" target="_blank">
+				<img src="./images/discord.png" alt="Discord">
+			</a>
+		</div>
+	</footer>
+
 
     <script>
         function toggleConfig() {
@@ -212,81 +252,83 @@ Based on your analysis, return a structured text document containing the timesta
         }
 		
 		function convertSRTtoTSV() {
-            const srtInput = document.getElementById('srtInput').value;
-            const intermediateText = document.getElementById('intermediateText').value;
-            const finalText = document.getElementById('finalText').value;
-            const maxChunkSize = parseInt(document.getElementById('maxChunkSize').value);
-            const output = document.getElementById('output');
-            output.innerHTML = '';
+			const srtInput = document.getElementById('srtInput').value;
+			const intermediateText = document.getElementById('intermediateText').value;
+			const finalText = document.getElementById('finalText').value;
+			const maxChunkSize = parseInt(document.getElementById('maxChunkSize').value);
+			const output = document.getElementById('output');
 
-            // Verifica se o input é um SRT
-            if (isValidSRT(srtInput)) {
-                const tsvLines = srtToTsv(srtInput);
-                const chunks = splitIntoChunks(tsvLines.join('\n'), maxChunkSize);
+			// Captura o footer antes de limpar o conteúdo
+			const footer = output.querySelector('footer');
+			
+			// Limpa o conteúdo anterior, mas preserva o footer
+			output.innerHTML = '';
 
-                chunks.forEach((chunk, index) => {
-                    const blockTitle = document.createElement('div');
-                    blockTitle.classList.add('block-title');
-                    blockTitle.textContent = `Bloco ${index + 1}:`;
-                    output.appendChild(blockTitle);
+			// Verifica se o input é um SRT
+			if (isValidSRT(srtInput)) {
+				const tsvLines = srtToTsv(srtInput);
+				const chunks = splitIntoChunks(tsvLines.join('\n'), maxChunkSize);
 
-                    const chunkContainer = document.createElement('div');
-                    chunkContainer.classList.add('chunk');
+				chunks.forEach((chunk, index) => {
+					const blockTitle = document.createElement('div');
+					blockTitle.classList.add('block-title');
+					blockTitle.textContent = `Bloco ${index + 1}:`;
+					output.appendChild(blockTitle);
 
-                    const preElement = document.createElement('pre');
-                    if (chunks.length === 1 || index === chunks.length - 1) {
-                        preElement.textContent = `${chunk}\n\n${finalText}`;
-                    } else {
-                        preElement.textContent = `${chunk}\n\n${intermediateText}`;
-                    }
+					const chunkContainer = document.createElement('div');
+					chunkContainer.classList.add('chunk');
 
-                    const copyContainer = document.createElement('div');
-                    copyContainer.classList.add('copy-container');
+					const preElement = document.createElement('pre');
+					preElement.textContent = `${chunk}\n\n${(chunks.length === 1 || index === chunks.length - 1) ? finalText : intermediateText}`;
 
-                    const copyButton = document.createElement('button');
-                    copyButton.textContent = 'Copiar chunk';
-                    copyButton.onclick = () => copyToClipboard(preElement.textContent, copyButton);
+					const copyContainer = document.createElement('div');
+					copyContainer.classList.add('copy-container');
 
-                    copyContainer.appendChild(copyButton);
-                    output.appendChild(chunkContainer);
-                    output.appendChild(copyContainer);
+					const copyButton = document.createElement('button');
+					copyButton.textContent = 'Copiar chunk';
+					copyButton.onclick = () => copyToClipboard(preElement.textContent, copyButton);
 
-                    chunkContainer.appendChild(preElement);
-                });
-            } else {
-                // Caso não seja um SRT, divide o texto pelo número de caracteres
-                const chunks = splitIntoChunks(srtInput, maxChunkSize);
-                chunks.forEach((chunk, index) => {
-                    const blockTitle = document.createElement('div');
-                    blockTitle.classList.add('block-title');
-                    blockTitle.textContent = `Bloco ${index + 1}:`;
-                    output.appendChild(blockTitle);
+					copyContainer.appendChild(copyButton);
+					chunkContainer.appendChild(preElement);
+					output.appendChild(chunkContainer);
+					output.appendChild(copyContainer);
+				});
+			} else {
+				// Caso não seja um SRT, divide o texto pelo número de caracteres
+				const chunks = splitIntoChunks(srtInput, maxChunkSize);
+				chunks.forEach((chunk, index) => {
+					const blockTitle = document.createElement('div');
+					blockTitle.classList.add('block-title');
+					blockTitle.textContent = `Bloco ${index + 1}:`;
+					output.appendChild(blockTitle);
 
-                    const chunkContainer = document.createElement('div');
-                    chunkContainer.classList.add('chunk');
+					const chunkContainer = document.createElement('div');
+					chunkContainer.classList.add('chunk');
 
-                    const preElement = document.createElement('pre');
-                    if (chunks.length === 1 || index === chunks.length - 1) {
-                        preElement.textContent = `${chunk}\n\n${finalText}`;
-                    } else {
-                        preElement.textContent = `${chunk}\n\n${intermediateText}`;
-                    }
+					const preElement = document.createElement('pre');
+					preElement.textContent = `${chunk}\n\n${(chunks.length === 1 || index === chunks.length - 1) ? finalText : intermediateText}`;
 
-                    const copyContainer = document.createElement('div');
-                    copyContainer.classList.add('copy-container');
+					const copyContainer = document.createElement('div');
+					copyContainer.classList.add('copy-container');
 
-                    const copyButton = document.createElement('button');
-                    copyButton.textContent = 'Copiar chunk';
-                    copyButton.onclick = () => copyToClipboard(preElement.textContent, copyButton);
+					const copyButton = document.createElement('button');
+					copyButton.textContent = 'Copiar chunk';
+					copyButton.onclick = () => copyToClipboard(preElement.textContent, copyButton);
 
-                    copyContainer.appendChild(copyButton);
-                    output.appendChild(chunkContainer);
-                    output.appendChild(copyContainer);
+					copyContainer.appendChild(copyButton);
+					chunkContainer.appendChild(preElement);
+					output.appendChild(chunkContainer);
+					output.appendChild(copyContainer);
+				});
+			}
 
-                    chunkContainer.appendChild(preElement);
-                });
-            }
-        }
+			// Garante que o footer fique no final, se existir
+			if (footer) {
+				output.appendChild(footer);
+			}
+		}
+
+
 		
         function isValidSRT(srtContent) {
             // Verifica se o conteúdo é um SRT básico (apenas um exemplo simples)
