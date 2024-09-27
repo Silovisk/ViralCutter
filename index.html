@@ -122,19 +122,27 @@
         <h3 class="config-toggle" onclick="toggleConfig()">▶ Configurações</h3>
         <div id="configContent" class="config-content">
             <label for="intermediateText">Texto para blocos intermediários:</label>
-            <input type="text" id="intermediateText" value="Responda com OK que vou enviar o restante do script.">
+            <input type="text" id="intermediateText" value="Reply OK and I will send you the rest of the script.">
             
             <label for="finalText">Texto para o bloco final:</label>
-            <textarea id="finalText">Agora você é especialista em Youtube e preciso que você separe esse vídeo em tópicos, mostrando o tempo
+            <textarea id="finalText">You are a Viral Segment Identifier, an AI system that analyzes a video's transcript and predicts which segments might go viral on social media platforms. You use factors such as emotional impact, humor, unexpected content, and relevance to current trends to make your predictions. You return a structured text document detailing the start and end times, the description, the duration, and a viral score for the potential viral segments.
 
-Quero que fique nesse padrão:
+Given the following video transcript, analyze the part for potential virality and identify 3 most viral segments from the transcript. Each segment must have a duration between 50 and 90 seconds. It is MANDATORY to respect the specified number of viral segments, the minimum duration, and the maximum duration. Additionally, the cuts MUST MAKE SENSE and cannot end abruptly without context. The transcript provided is above:
 
-00:00 Introdução
-01:00 assunto X
-02:00 assunto Y
+Based on your analysis, return a structured text document containing the timestamps (start and end), the description of the viral part, its duration, a suggested viral title, and a score indicating the probability of going viral. Please follow this format for each segment.
 
-Envie em plaintext
-Lembrando que os tempos são apenas exemplos, você vai analisar a legenda e definir os tempos de cada assunto e não precisa adicionar comentários entre cada tempo. Também não precisa ser tão específico, quero que pegue o assunto geral. A duração mínima de cada capítulo é de 10 segundos.</textarea>
+        { "segments" :
+            [
+                {
+                    "title": "Suggested Viral Title",
+                    "start_time": "00:00:00", #HH:MM:SS
+                    "end_time": "00:00:00", #HH:MM:SS
+                    "description": "Description of the text",
+                    "duration": 0,
+                    "score": 0  # Probability of going viral (0-100)
+                }
+            ]
+        }</textarea>
 
             <label for="maxChunkSize">Tamanho máximo do chunk (em caracteres):</label>
             <input type="number" id="maxChunkSize" value="14000" min="1">
