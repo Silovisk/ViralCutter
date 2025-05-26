@@ -7,9 +7,19 @@ def cut(segments):
 
     def check_nvenc_support():
         try:
+            # First check if nvenc encoder is available
             result = subprocess.run(["ffmpeg", "-encoders"], capture_output=True, text=True)
-            return "h264_nvenc" in result.stdout
-        except subprocess.CalledProcessError:
+            if "h264_nvenc" not in result.stdout:
+                return False
+            
+            # Test if nvenc actually works by trying to use it
+            test_result = subprocess.run([
+                "ffmpeg", "-f", "lavfi", "-i", "testsrc=duration=1:size=320x240:rate=1", 
+                "-c:v", "h264_nvenc", "-preset", "p1", "-f", "null", "-"
+            ], capture_output=True, text=True, timeout=10)
+            
+            return test_result.returncode == 0
+        except (subprocess.CalledProcessError, subprocess.TimeoutExpired, FileNotFoundError):
             return False
 
     def generate_segments(response):

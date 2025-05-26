@@ -6,6 +6,24 @@ import mediapipe as mp
 from scripts.one_face import crop_and_resize_single_face, resize_with_padding, detect_face_or_body
 from scripts.two_face import crop_and_resize_two_faces, detect_face_or_body_two_faces
 
+def check_nvenc_support():
+    """Check if NVENC is available and working"""
+    try:
+        # First check if nvenc encoder is available
+        result = subprocess.run(["ffmpeg", "-encoders"], capture_output=True, text=True)
+        if "h264_nvenc" not in result.stdout:
+            return False
+        
+        # Test if nvenc actually works by trying to use it
+        test_result = subprocess.run([
+            "ffmpeg", "-f", "lavfi", "-i", "testsrc=duration=1:size=320x240:rate=1", 
+            "-c:v", "h264_nvenc", "-preset", "fast", "-f", "null", "-"
+        ], capture_output=True, text=True, timeout=10)
+        
+        return test_result.returncode == 0
+    except (subprocess.CalledProcessError, subprocess.TimeoutExpired, FileNotFoundError):
+        return False
+
 def edit():
     # Inicialização das soluções do MediaPipe
     mp_face_detection = mp.solutions.face_detection
@@ -94,9 +112,7 @@ def edit():
 
             cap.release()
             out.release()
-            cv2.destroyAllWindows()
-
-            # Extrair o áudio do vídeo original
+            cv2.destroyAllWindows()            # Extrair o áudio do vídeo original
             audio_file = f"tmp/output-audio-{index}.aac"
             command = f"ffmpeg -y -i {input_file} -vn -acodec copy {audio_file}"
 
@@ -109,7 +125,15 @@ def edit():
                 final_dir = "final/"
                 os.makedirs(final_dir, exist_ok=True)
                 final_output = os.path.join(final_dir, f"final-output{str(index).zfill(3)}_processed.mp4")
-                command = f"ffmpeg -y -i {output_file} -i {audio_file} -c:v h264_nvenc -preset fast -b:v 2M -c:a aac -b:a 192k -r {fps} {final_output}"
+                
+                # Check NVENC support and use appropriate encoder
+                if check_nvenc_support():
+                    print("Using NVENC encoder for final output")
+                    command = f"ffmpeg -y -i {output_file} -i {audio_file} -c:v h264_nvenc -preset fast -b:v 2M -c:a aac -b:a 192k -r {fps} {final_output}"
+                else:
+                    print("NVENC not available, using libx264 encoder for final output")
+                    command = f"ffmpeg -y -i {output_file} -i {audio_file} -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 192k -r {fps} {final_output}"
+                
                 subprocess.call(command, shell=True)
                 print(f"Arquivo final gerado em: {final_output}")
             else:
