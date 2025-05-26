@@ -1,3 +1,5 @@
 /venv
 tmp/*.mp4
+tmp/venv/
 tmp/
+*.mp4
