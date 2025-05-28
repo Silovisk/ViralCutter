@@ -67,3 +67,7 @@ Quer ajudar a tornar o ViralCutter ainda melhor? Se você tiver sugestões ou qu
 Uma alternativa gratuita ao `opus.pro` e ao `vidyo.ai`.
 
 ---
+
+
+cd /home/purpling/projects/shorts/ViralCutter && yt-dlp --cookies-from-browser firefox --
+cookies cookies.txt --simulate 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'

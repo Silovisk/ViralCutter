@@ -1,1556 +1,1912 @@
 1
-00:00:00,000 --> 00:00:06,919
-A OpenAI, cara, como é que ele funciona como ele funciona como neco-ocio, cara,
+00:00:00,000 --> 00:00:05,040
+Me ajuda em encontrar um cara bacana para tudo, aquele que você fala assim, esse aqui,
 
 2
-00:00:06,919 --> 00:00:12,040
-porque o chat PT vai, tem o plano de astronautura, no seu dia,
+00:00:05,040 --> 00:00:06,540
+mamam.
 
 3
-00:00:12,040 --> 00:00:16,039
-mas assim, toda vez que ele dá pra criar imagens ali, de graça,
+00:00:06,540 --> 00:00:07,540
+Oi?
 
 4
-00:00:16,039 --> 00:00:21,679
-e não é de graça, de verdade, né, alguém, eles caralhar, tem um custo,
+00:00:07,540 --> 00:00:09,540
+Vamos tentar porque por aqui tá difícil.
 
 5
-00:00:21,679 --> 00:00:25,039
-e tem a galera que tá pagando pra você usar de graça,
+00:00:09,540 --> 00:00:19,640
+Já começou, dovidando do potencial dos meus ratatui.
 
 6
-00:00:25,039 --> 00:00:27,679
-porque o usuário gratuita, ele não quer esse cara,
+00:00:19,640 --> 00:00:24,719
+Bruto, brutíssima.
 
 7
-00:00:27,679 --> 00:00:30,480
-ele não quer o cara que eu brincor, igual eu, eu não,
+00:00:24,719 --> 00:00:30,599
+Brutíssima é foda.
 
 8
-00:00:30,480 --> 00:00:33,640
-e eu paga leço o plano mais caro, já te PT, porque não tem igual o cara.
+00:00:30,599 --> 00:00:34,000
+Pode cracharzinho, escala.
 
 9
-00:00:33,640 --> 00:00:37,480
-O dia dos então, o dia dos então, é, o que você usa esse caro,
+00:00:34,000 --> 00:00:35,000
+Crachar de cria.
 
 10
-00:00:37,480 --> 00:00:40,000
-não dá sua vida, o da sua vida mesmo, porque, por quê?
+00:00:35,000 --> 00:00:36,000
+Crachar de cria.
 
 11
-00:00:40,000 --> 00:00:43,560
-Porque eu poderia processamento o acesso à informação é completamente diferente.
+00:00:36,000 --> 00:00:39,000
+Bruto, bruto demais.
 
 12
-00:00:43,560 --> 00:00:47,719
-O que você tá usando o grato, o então, o divintão, por mês,
+00:00:39,000 --> 00:00:41,000
+Roludo, hola.
 
 13
-00:00:47,719 --> 00:00:53,280
-cara, de novo é um ferinho, né, tipo um traio, muda completamente,
+00:00:41,000 --> 00:00:43,399
+Meio medo de pique.
 
 14
-00:00:53,280 --> 00:00:56,200
-a qualidade da informação, a qualidade de construção,
+00:00:43,399 --> 00:00:44,399
+Meio.
 
 15
-00:00:56,200 --> 00:01:00,200
-quando você usa lá o dip, né, que é o pensamento,
+00:00:44,399 --> 00:00:45,399
+Oi.
 
 16
-00:01:00,200 --> 00:01:03,240
-o mesmo mundo, que é o cara, você viu um negócio funcionando,
+00:00:45,399 --> 00:00:48,000
+Ela é jada, né?
 
 17
-00:01:03,240 --> 00:01:06,439
-é absudo, você pode pregurar uma das suas que eu mais falo,
+00:00:48,000 --> 00:00:50,000
+Amarrado, tudo por dentro da casa.
 
 18
-00:01:06,439 --> 00:01:10,439
-não, lá no, no, nas minhas redes, e o brigo, o cogalera, é.
+00:00:50,000 --> 00:00:52,000
+Amarrou o piru, só pra gente.
 
 19
-00:01:10,439 --> 00:01:13,640
-Todo mundo tá achando que é inteligência artificial, veio pra tirar meu trabalho.
+00:00:52,000 --> 00:00:54,000
+Tu sabe cozinha?
 
 20
-00:01:13,640 --> 00:01:16,240
-Porra, com a inteligência artificial, eu vou ter mais tempo,
+00:00:54,000 --> 00:00:55,000
+E sei, sei.
 
 21
-00:01:16,240 --> 00:01:18,960
-vou fazer mais coisa, e o Japão é completamente diferente.
+00:00:55,000 --> 00:00:57,000
+O que você é fazer pela gente a hoje?
 
 22
-00:01:18,960 --> 00:01:21,240
-Nunca no mundo, a gente teve uma oportunidade,
+00:00:57,000 --> 00:01:01,000
+Estravar na África de frango.
 
 23
-00:01:21,240 --> 00:01:24,079
-então é animal de ter super poderes.
+00:01:01,000 --> 00:01:06,000
+E é acaba da tapária, não, nada vem.
 
 24
-00:01:24,079 --> 00:01:26,879
-Hoje, o cara quer a design, ele pode programar,
+00:01:06,000 --> 00:01:09,000
+Ah, isso aí eu faço tudo em casa.
 
 25
-00:01:26,879 --> 00:01:28,719
-ele pode lançar o produto, o produto dele próprio,
+00:01:09,000 --> 00:01:10,000
+Tu quer uma coisa especial?
 
 26
-00:01:28,719 --> 00:01:31,280
-ele pode ser atendimento, ele pode ser comercial,
+00:01:10,000 --> 00:01:11,000
+Lóisco, né?
 
 27
-00:01:31,280 --> 00:01:34,319
-o cara quer a programar do que não sabe fazer um circulo na mesa,
+00:01:11,000 --> 00:01:13,000
+Uma coisa mais laborada.
 
 28
-00:01:34,319 --> 00:01:38,159
-pode ter um design animal efeito, então é aí, hoje, né,
+00:01:13,000 --> 00:01:14,000
+Caralho.
 
 29
-00:01:38,159 --> 00:01:40,640
-o chat PT, cara, te dá super poderes,
+00:01:14,000 --> 00:01:17,000
+Ela quer um negócio mais laborado.
 
 30
-00:01:40,640 --> 00:01:43,879
-e quando você experimenta esse de 200, é animal,
+00:01:17,000 --> 00:01:19,000
+Uma carrinha, essa, a dana chou a esquerda.
 
 31
-00:01:43,879 --> 00:01:46,519
-e da onde meu dinheiro, as empresas e desvindem,
+00:01:19,000 --> 00:01:22,000
+Uma carrinha, sei lá, dana chou a esquerda.
 
 32
-00:01:46,519 --> 00:01:51,319
-Tolkien, pra as empresas, para usar isso em grandes calles,
+00:01:22,000 --> 00:01:24,000
+E sei lá.
 
 33
-00:01:51,319 --> 00:01:53,639
-em um dos grandes calltratos ao opinié.
+00:01:24,000 --> 00:01:26,000
+Não é na chapa, gente.
 
 34
-00:01:53,639 --> 00:01:55,959
-No Brasil, está lá no iPhone com a gente,
+00:01:26,000 --> 00:01:29,000
+Ou não, na chau a esquerda, sei lá.
 
 35
-00:01:55,959 --> 00:01:58,199
-e cara, a gente usa isso em escala pra fazer
+00:01:29,000 --> 00:01:32,000
+A chau a esquerda é, né?
 
 36
-00:01:58,199 --> 00:02:01,959
-o negócio absurdo de análise e predição entre outras coisas.
+00:01:32,000 --> 00:01:34,000
+Sei lá, do que?
 
 37
-00:02:01,959 --> 00:02:05,239
-Então, é daí que vem o dinheiro, se fecha a conta, ou não,
+00:01:34,000 --> 00:01:36,000
+Tentei.
 
 38
-00:02:05,239 --> 00:02:08,199
-hoje não está fechando, mas como qualquer empresa de tecnologia,
+00:01:36,000 --> 00:01:40,000
+Ei, vai se avotir, amfeir, esse é um estrogo anove.
 
 39
-00:02:08,199 --> 00:02:11,639
-o comecinho não tem que dar payback, mas o futuro é bem promissor.
+00:01:40,000 --> 00:01:42,000
+Você falou nessa, porra, já faço em casa.
 
 40
-00:02:11,639 --> 00:02:14,120
-E cada payque, qualquer cara desenvolve,
+00:01:42,000 --> 00:01:45,000
+Então eu vou te tragar carrinha na chau a esquerda, sei lá, dinha.
 
 41
-00:02:14,120 --> 00:02:16,519
-ele vai ter que usar esses Tolkien São Págos, entendeu?
+00:01:45,000 --> 00:01:48,000
+Aquela que tu bota, carrinha.
 
 42
-00:02:16,519 --> 00:02:18,680
-Isso, ele não tem como você desenvolver um app,
+00:01:49,000 --> 00:01:52,000
+Legal, mas uma ruisinha, sabe fazer?
 
 43
-00:02:18,680 --> 00:02:22,200
-e o app é um aplicativo que usa o chat PT por trás.
+00:01:52,000 --> 00:01:53,000
+Como sei?
 
 44
-00:02:22,200 --> 00:02:26,040
-Não importa, pode ser o iPhone, pode ser a farmassa da esquina.
+00:01:53,000 --> 00:01:55,000
+Sabe fazer alguma sobre a mesma?
 
 45
-00:02:26,040 --> 00:02:29,159
-Se o cara desenvolveu a paye, ele vai ter que para esse plano que é pago,
+00:01:55,000 --> 00:01:57,000
+Múse de uma coisa, cara.
 
 46
-00:02:29,159 --> 00:02:31,560
-porque ele vai ter que pagar por Tolkien que ele está usando.
+00:01:57,000 --> 00:01:58,000
+Tirou, anda.
 
 47
-00:02:31,560 --> 00:02:33,800
-E aí que o cara ganha dinheiro, é só ir.
+00:01:58,000 --> 00:02:00,000
+Gosto de músezinha?
 
 48
-00:02:33,800 --> 00:02:38,439
-E daí, na anterior, qualquer empresa,
+00:02:00,000 --> 00:02:02,000
+É uma da vivenfeirida, esse.
 
 49
-00:02:38,439 --> 00:02:40,200
-a gente entrega para as pessoas,
+00:02:02,000 --> 00:02:04,000
+Eles não podem te ganhar só por isso.
 
 50
-00:02:40,200 --> 00:02:42,520
-elas começam a entender que faz diferença na vida,
+00:02:04,000 --> 00:02:08,000
+Eu pessoal até comemorou o meu primeiro aceto.
 
 51
-00:02:42,520 --> 00:02:44,120
-começam a criar o hábito,
+00:02:08,000 --> 00:02:10,000
+Em potência de ter a rol incorporada?
 
 52
-00:02:44,120 --> 00:02:47,159
-começa a criar produtos e serviços em cima disso.
+00:02:10,000 --> 00:02:11,000
+Oi?
 
 53
-00:02:47,159 --> 00:02:51,799
-E vai subindo o precinho de um pouquinho até todo mundo está bem amaradinho.
+00:02:11,000 --> 00:02:12,000
+É.
 
 54
-00:02:51,799 --> 00:02:53,960
-Isso acontece hoje até comprar pro WhatsApp,
+00:02:12,000 --> 00:02:13,000
+Vai lá, Patros.
 
 55
-00:02:53,960 --> 00:02:55,719
-quando você está falando de WhatsApp e bizzas.
+00:02:14,000 --> 00:02:17,000
+Caralho, denunciar o piru dele.
 
 56
-00:02:55,719 --> 00:02:59,319
-No começo, todo mundo me mandava mensagem empresa de graça.
+00:02:19,000 --> 00:02:22,000
+Oi, moleja, deve ter pegado.
 
 57
-00:02:59,319 --> 00:03:01,639
-Hoje para você fazer um mundo esparo, tem o custo.
+00:02:22,000 --> 00:02:25,000
+Com certeza.
 
 58
-00:03:01,639 --> 00:03:04,359
-E agora até eu acho que três meses atrás,
+00:02:25,000 --> 00:02:27,000
+A ciôme de piru.
 
 59
-00:03:04,359 --> 00:03:05,960
-subiu e estava todo mundo no reclamando.
+00:02:29,000 --> 00:02:30,000
+Bruto, bruto.
 
 60
-00:03:05,960 --> 00:03:07,159
-Então, é assim que funciona.
+00:02:30,000 --> 00:02:31,000
+A chau a rolo.
 
 61
-00:03:07,159 --> 00:03:09,400
-Então, o appartido OpenAI,
+00:02:31,000 --> 00:02:32,000
+A chau a rolo.
 
 62
-00:03:09,400 --> 00:03:11,159
-é muito mais um assass,
+00:02:32,000 --> 00:02:34,000
+É, é só eu, eu vou falar.
 
 63
-00:03:11,159 --> 00:03:13,479
-zão, serve isso grande,
+00:02:34,000 --> 00:02:35,000
+Oh, eu vou.
 
 64
-00:03:13,479 --> 00:03:17,879
-mas que eles foram muitos sagas que deixam montar um produto
+00:02:39,000 --> 00:02:40,000
+Ah, leca.
 
 65
-00:03:17,879 --> 00:03:19,639
-para o consumidor final,
+00:02:40,000 --> 00:02:41,000
+Vamos ver.
 
 66
-00:03:19,639 --> 00:03:21,879
-para eu conseguir ter a penetração
+00:02:43,000 --> 00:02:45,000
+Ah, o que é chudo, barminh?
 
 67
-00:03:21,879 --> 00:03:24,280
-para todo mundo lembrar do meu produto.
+00:02:45,000 --> 00:02:47,000
+É, é, esse loso, né.
 
 68
-00:03:24,280 --> 00:03:25,479
-E quando falar...
+00:02:47,000 --> 00:02:48,000
+Mas, altos.
 
 69
-00:03:25,479 --> 00:03:26,519
-Muito bem está.
+00:02:48,000 --> 00:02:49,000
+É.
 
 70
-00:03:26,519 --> 00:03:29,000
-E também para quebrar também um pouco esse...
+00:02:49,000 --> 00:02:51,000
+Essa gente e o cheiro do pescoço, uma lá perfume.
 
 71
-00:03:29,000 --> 00:03:30,919
-Essa barreira com inteligência artificial.
+00:02:51,000 --> 00:02:53,000
+Vamos ver se ele tá bom.
 
 72
-00:03:30,919 --> 00:03:31,959
-Para de ganhar?
+00:02:53,000 --> 00:02:55,000
+Na rapra, a gente como ficou.
 
 73
-00:03:31,959 --> 00:03:33,879
-Porque, cara, você oure você vê?
+00:02:55,000 --> 00:02:57,000
+E botou a mão escarada.
 
 74
-00:03:33,879 --> 00:03:35,479
-Eu tenho um estado aí no Brasil,
+00:02:57,000 --> 00:03:00,000
+Serúso, perfume do o seu gosto.
 
 75
-00:03:35,479 --> 00:03:37,799
-fazendo um projeto aí que eu encontro com...
+00:03:00,000 --> 00:03:02,000
+Perfamisinha, leve.
 
 76
-00:03:37,799 --> 00:03:39,399
-Em quanto uma senhorinha de 80 anos,
+00:03:02,000 --> 00:03:03,000
+É, do assim.
 
 77
-00:03:39,399 --> 00:03:40,519
-que está usando...
+00:03:03,000 --> 00:03:05,000
+Ele pode sentir o seu cheiro agora.
 
 78
-00:03:40,519 --> 00:03:42,839
-E que a gente artificial, cara, tu lhe não.
+00:03:05,000 --> 00:03:06,000
+Pau, ai.
 
 79
-00:03:42,840 --> 00:03:44,439
-E ela fala, cara, isso aqui mudou a minha vida.
+00:03:06,000 --> 00:03:08,000
+Sem costar, meu, meu tamanho que ele já quer pegar no pesco.
 
 80
-00:03:44,439 --> 00:03:45,640
-Está 80 anos, cara.
+00:03:08,000 --> 00:03:10,000
+Ele já quer pegar no pescoço.
 
 81
-00:03:45,640 --> 00:03:47,479
-Ela já trabalhou, já fez isso na vida dela.
+00:03:10,000 --> 00:03:12,000
+A chau, o cabelo já botou o pescoço.
 
 82
-00:03:47,479 --> 00:03:48,520
-E ela está usando.
+00:03:12,000 --> 00:03:13,000
+Aqui, vai lá.
 
 83
-00:03:48,520 --> 00:03:49,960
-O lance que o chat PT fez,
+00:03:13,000 --> 00:03:15,000
+Temos que ficar com o tesão da porra aqui.
 
 84
-00:03:49,960 --> 00:03:51,640
-deixá aquilo daquela maneira.
+00:03:15,000 --> 00:03:17,000
+Oh, beleza.
 
 85
-00:03:51,640 --> 00:03:52,840
-Foi para quebrar essa barreira,
+00:03:17,000 --> 00:03:18,000
+Lá vem.
 
 86
-00:03:52,840 --> 00:03:54,599
-e ele quebrou a barreira e gigante, tem esse cara.
+00:03:18,000 --> 00:03:19,000
+O adeque.
 
 87
-00:03:54,599 --> 00:03:56,280
-E ele conseguiu trazer para ele...
+00:03:19,000 --> 00:03:20,000
+De mais.
 
 88
-00:03:56,280 --> 00:03:57,640
-É algo que...
+00:03:20,000 --> 00:03:21,000
+E isso?
 
 89
-00:03:57,640 --> 00:03:59,319
-Não tem valor que...
+00:03:21,000 --> 00:03:23,000
+Puxhou, filmoz.
 
 90
-00:03:59,319 --> 00:04:01,319
-várias pessoas que se apentaram...
+00:03:23,000 --> 00:03:24,000
+De mais.
 
 91
-00:04:01,319 --> 00:04:04,520
-sob inteligência, acho que o chat PT já te chipe de...
+00:03:24,000 --> 00:03:26,000
+Puxhou, filmoz.
 
 92
-00:04:04,520 --> 00:04:05,960
-É isso, ele popularizou,
+00:03:26,000 --> 00:03:27,000
+Já bombei o pirou.
 
 93
-00:04:05,960 --> 00:04:08,520
-ele naturalizou uma coisa que...
+00:03:27,000 --> 00:03:30,000
+Se fosse pra levar ela pra passear.
 
 94
-00:04:08,520 --> 00:04:09,400
-Cara, não é como um...
+00:03:30,000 --> 00:03:31,000
+Qual o lugar que você levaria?
 
 95
-00:04:09,400 --> 00:04:10,840
-Ele quando o cara quer pedir comida.
+00:03:31,000 --> 00:03:32,000
+Altbeck.
 
 96
-00:04:10,840 --> 00:04:12,840
-E quando o cara quer pedir comida,
+00:03:32,000 --> 00:03:34,000
+Cara, ai.
 
 97
-00:04:12,840 --> 00:04:13,960
-ele pode pedir por qualquer lugar,
+00:03:34,000 --> 00:03:35,000
+Batatinho.
 
 98
-00:04:13,960 --> 00:04:15,560
-mas geralmente o jogo hábito.
+00:03:35,000 --> 00:03:36,000
+Altbeck.
 
 99
-00:04:15,560 --> 00:04:17,319
-Por favor, ele não é fúdio de anoite.
+00:03:36,000 --> 00:03:38,000
+Cara, ai.
 
 100
-00:04:17,319 --> 00:04:18,920
-E daí o cara pode até pedir pelo WhatsApp,
+00:03:39,000 --> 00:03:41,000
+Batatinho.
 
 101
-00:04:18,920 --> 00:04:21,000
-mas ele se comunica desse jeito.
+00:03:41,000 --> 00:03:42,000
+Chazinho.
 
 102
-00:04:21,000 --> 00:04:23,480
-Total, total, viral, viral, viral.
+00:03:42,000 --> 00:03:44,000
+É, o que é, padrão, né.
 
 103
-00:04:23,480 --> 00:04:24,519
-E dira um a fúdio virou...
+00:03:44,000 --> 00:03:46,000
+Todo mundo gosta, ó.
 
 104
-00:04:24,519 --> 00:04:25,639
-É tipo, você pediu uma fúdio.
+00:03:46,000 --> 00:03:48,000
+Ela botou todo mundo pra baixo, né.
 
 105
-00:04:25,639 --> 00:04:26,360
-É um tríso.
+00:03:49,000 --> 00:03:53,000
+Se ela quiser comer, caixa também fácil o risoto e calma não pra ela.
 
 106
-00:04:26,360 --> 00:04:27,480
-É, vai, vai, vai, vai.
+00:03:54,000 --> 00:03:55,000
+Oi.
 
 107
-00:04:27,480 --> 00:04:28,759
-Vamos, senca, vai pedir uma fúdio.
+00:03:55,000 --> 00:03:56,000
+Doi aqui, de limão.
 
 108
-00:04:28,759 --> 00:04:30,360
-E daí nem que ele liga,
+00:03:56,000 --> 00:03:57,000
+Cara.
 
 109
-00:04:30,360 --> 00:04:32,439
-e pô, manda o pomegendo pra mim.
+00:03:57,000 --> 00:03:59,000
+Oi.
 
 110
-00:04:32,439 --> 00:04:33,160
-Mas é isso.
+00:03:59,000 --> 00:04:02,000
+Pelo, você é risoto de limão se sireano.
 
 111
-00:04:33,160 --> 00:04:35,160
-Então, agora eu vou defender a China aqui.
+00:04:05,000 --> 00:04:06,000
+Oi.
 
 112
-00:04:35,959 --> 00:04:37,720
-Porque assim, eu usei muito de psique.
+00:04:06,000 --> 00:04:08,000
+Pelo, eu pebo limão no pebo, né.
 
 113
-00:04:37,720 --> 00:04:40,920
-Não acho que tem nada demais além de chat PT não.
+00:04:08,000 --> 00:04:10,000
+É nascesseira, vai ser fórna.
 
 114
-00:04:40,920 --> 00:04:41,400
-É isso.
+00:04:12,000 --> 00:04:14,000
+Ela jogou, acho que, estraga na f.
 
 115
-00:04:41,400 --> 00:04:43,640
-Foi aquela, aquela, a insurrada, eu copia.
+00:04:14,000 --> 00:04:15,000
+E se eu faço.
 
 116
-00:04:43,640 --> 00:04:45,640
-A porque é de graça, de graça...
+00:04:15,000 --> 00:04:16,000
+Altbeck, padrão.
 
 117
-00:04:45,640 --> 00:04:46,680
-Também não é não.
+00:04:16,000 --> 00:04:17,000
+Resoto.
 
 118
-00:04:46,680 --> 00:04:47,680
-Também não.
+00:04:17,000 --> 00:04:19,000
+Tem que ser dacesseira.
 
 119
-00:04:47,680 --> 00:04:47,880
-Tem um soto.
+00:04:19,000 --> 00:04:21,000
+Vai lá pra trás.
 
 120
-00:04:47,880 --> 00:04:49,560
-Porque tem um plano, e tal, um soto.
+00:04:21,000 --> 00:04:23,000
+Ela tá difícil pra caramba.
 
 121
-00:04:49,560 --> 00:04:51,960
-Mas eu estou usando uma ja chinesa.
+00:04:23,000 --> 00:04:24,000
+Cheiria de...
 
 122
-00:04:51,960 --> 00:04:52,680
-Ah.
+00:04:24,000 --> 00:04:26,000
+Esse é Brutoim.
 
 123
-00:04:52,680 --> 00:04:53,680
-Chama malus.
+00:04:26,000 --> 00:04:28,000
+Ombrudo.
 
 124
-00:04:53,680 --> 00:04:55,680
-Do ligado nessa da Imerma.
+00:04:28,000 --> 00:04:30,000
+Calça, alegue.
 
 125
-00:04:55,680 --> 00:04:58,280
-Essa é a melhor que tem.
+00:04:32,000 --> 00:04:34,000
+E cara, a mulher tá tesou, no lhe.
 
 126
-00:04:58,280 --> 00:05:01,000
-Essa saiu pra mim, saiu assim, eu pedi lá.
+00:04:34,000 --> 00:04:36,000
+Gastou em que isso, cara.
 
 127
-00:05:01,000 --> 00:05:03,480
-Eu entrei no site, fiz o processo pediinho.
+00:04:36,000 --> 00:04:38,000
+O pior que eu tô com essa iguana dela.
 
 128
-00:05:03,480 --> 00:05:04,520
-Você já conseguiu?
+00:04:42,000 --> 00:04:43,000
+Bruto, Bruto.
 
 129
-00:05:04,520 --> 00:05:05,520
-Pra dar.
+00:04:43,000 --> 00:04:45,000
+Saga, esposa, calma, pistela toda hora.
 
 130
-00:05:05,519 --> 00:05:06,519
-Eu vou já.
+00:04:45,000 --> 00:04:46,000
+Só com o Nakuister.
 
 131
-00:05:06,519 --> 00:05:07,519
-E aí eu peguei uma orang.
+00:04:46,000 --> 00:04:47,000
+O. Fala aqui, não.
 
 132
-00:05:07,519 --> 00:05:08,519
-Eu peguei uma orang.
+00:04:47,000 --> 00:04:48,000
+Vamos ver se ela gosta.
 
 133
-00:05:08,519 --> 00:05:09,519
-Mas o que for me faz semana?
+00:04:48,000 --> 00:04:50,000
+Gosta de uma coisa mais bruto.
 
 134
-00:05:09,519 --> 00:05:10,519
-Ah, depois de cima você não começou.
+00:04:50,000 --> 00:04:51,000
+Muito não.
 
 135
-00:05:10,519 --> 00:05:11,519
-Não, não.
+00:04:51,000 --> 00:04:52,000
+Marleve.
 
 136
-00:05:11,519 --> 00:05:12,519
-Até foi rápido.
+00:04:52,000 --> 00:04:53,000
+Ah.
 
 137
-00:05:12,519 --> 00:05:16,519
-O meu tomeio, eu fiz o meu quadrado da manus, enganeiro que tava tipo assim.
+00:04:53,000 --> 00:04:54,000
+Fica aqui no três.
 
 138
-00:05:16,519 --> 00:05:17,519
-Quanto subiu?
+00:04:54,000 --> 00:04:55,000
+Olha pra lá.
 
 139
-00:05:17,519 --> 00:05:20,519
-Subiu no recebido em duas semanas.
+00:04:55,000 --> 00:04:56,000
+Conco.
 
 140
-00:05:20,519 --> 00:05:22,519
-Não recebi umas duas semanas também.
+00:04:56,000 --> 00:04:59,000
+Mássla aqui no Nakuister lá dele o quanto isso é que é.
 
 141
-00:05:22,519 --> 00:05:24,519
-A manus é saí-se.
+00:04:59,000 --> 00:05:01,000
+Mássla.
 
 142
-00:05:24,519 --> 00:05:27,519
-Porque ela já é uma, uma, um negócio amais.
+00:05:01,000 --> 00:05:04,000
+Mássla lá dele, lá dele.
 
 143
-00:05:27,519 --> 00:05:32,519
-Porque ela é o tal dos agentes de a, que a gente fala.
+00:05:04,000 --> 00:05:05,000
+Lá vem.
 
 144
-00:05:32,519 --> 00:05:34,519
-Então, o que dá pra se fazer com a Ia hoje?
+00:05:06,000 --> 00:05:07,000
+Vai.
 
 145
-00:05:34,519 --> 00:05:37,839
-Seus alchante a PT lá perguntando se Paul Mera tem um gel que eu brinco a galera que
+00:05:07,000 --> 00:05:08,000
+Oi.
 
 146
-00:05:37,839 --> 00:05:38,839
-eu faço.
+00:05:08,000 --> 00:05:10,000
+Eu gosto mais uma pegada mesmo, carinho.
 
 147
-00:05:38,839 --> 00:05:42,399
-Mas o lance da Ia hoje é você fazer o que o Breno falou.
+00:05:10,000 --> 00:05:11,000
+Uma saja, gente.
 
 148
-00:05:42,399 --> 00:05:47,399
-O cara é designé, aí ele monta uma agência usando só eás.
+00:05:12,000 --> 00:05:13,000
+Quer te comer?
 
 149
-00:05:47,399 --> 00:05:50,120
-Cada Ia vai cuidar de um de setor da agência dele.
+00:05:14,000 --> 00:05:15,000
+O lado, ele.
 
 150
-00:05:50,120 --> 00:05:52,879
-E você consegue definir personas e perfil.
+00:05:15,000 --> 00:05:16,000
+Cô está gostando?
 
 151
-00:05:52,879 --> 00:05:57,079
-Então, você pode falar assim, eu quero um comunicador tão poderoso quanto umizango
+00:05:16,000 --> 00:05:17,000
+Rapaz.
 
 152
-00:05:57,079 --> 00:05:59,519
-a naís, toma aqui um monte de referência programa.
+00:05:18,000 --> 00:05:20,000
+Te pegou ele na cintura?
 
 153
-00:05:59,519 --> 00:06:01,839
-Põe um subípro dele, ele vai vir tudo.
+00:05:20,000 --> 00:05:21,000
+Qual foi? Não entendi.
 
 154
-00:06:01,839 --> 00:06:03,479
-Tudo lá, tal treinou?
+00:05:21,000 --> 00:05:22,000
+Quer assim, assim.
 
 155
-00:06:03,480 --> 00:06:04,960
-Não tem umizango a naís virtual.
+00:05:22,000 --> 00:05:23,000
+Tem...
 
 156
-00:06:04,960 --> 00:06:06,160
-Não sei, pega o alchante, olha.
+00:05:23,000 --> 00:05:24,000
+Qual foi?
 
 157
-00:06:06,160 --> 00:06:12,120
-Eu quero um cara mistilo, randone para fazer meu logo e não sei o que.
+00:05:24,000 --> 00:05:26,000
+Eu não. Tá maluco, tá trabalhando.
 
 158
-00:06:12,120 --> 00:06:16,800
-Se vai me assurando essa porra e dá um aqui e caras se trabalham sozinhos.
+00:05:27,000 --> 00:05:29,000
+Ela tô montado a ela de vinte.
 
 159
-00:06:16,800 --> 00:06:18,240
-E o mais louca é você faz um job.
+00:05:32,000 --> 00:05:34,000
+Pra frente, com o seu sigo, no quanto é o sigo.
 
 160
-00:06:18,240 --> 00:06:21,240
-Tá, se fala assim, ó, como se fosse uma reunião aqui, não?
+00:05:34,000 --> 00:05:35,000
+Fá agitario.
 
 161
-00:06:21,240 --> 00:06:23,879
-Você vai fazer a aplicativa agora.
+00:05:35,000 --> 00:05:36,000
+Gente.
 
 162
-00:06:23,879 --> 00:06:24,879
-Tá?
+00:05:36,000 --> 00:05:39,000
+Fogo que arde sem envir.
 
 163
-00:06:24,879 --> 00:06:27,680
-O a gente treinou três, está fazendo ali a responsabilidade do código e depois ele vai te avisar
+00:05:40,000 --> 00:05:43,000
+Qual o lugar que se levaria pra ela, pra finalização?
 
 164
-00:06:27,680 --> 00:06:28,680
-a gente dois.
+00:05:43,000 --> 00:05:45,000
+Vamos ver que ela tô por.
 
 165
-00:06:28,680 --> 00:06:30,400
-Pra você começar a fazer o design.
+00:05:45,000 --> 00:05:46,000
+Pra... Pra jantar?
 
 166
-00:06:30,400 --> 00:06:32,400
-Você carca uma extraba lá sozinhos.
+00:05:46,000 --> 00:05:47,000
+Não, pra finalizar.
 
 167
-00:06:32,759 --> 00:06:33,759
-E isso começa a fazer as coisas?
+00:05:48,000 --> 00:05:49,000
+Ou foi pra...
 
 168
-00:06:33,759 --> 00:06:38,000
-Então, isso daí dá pra fazer muita coisa foda, né?
+00:05:50,000 --> 00:05:51,000
+Aonde?
 
 169
-00:06:38,000 --> 00:06:39,479
-E a manusa, ela já é, é o que?
+00:05:51,000 --> 00:05:52,000
+Praia do Fugate.
 
 170
-00:06:39,479 --> 00:06:42,159
-Ela já é só em esses agentes trabalhando ali dentro.
+00:05:53,000 --> 00:05:54,000
+Se queira.
 
 171
-00:06:42,159 --> 00:06:43,159
-Resato.
+00:05:56,000 --> 00:05:57,000
+Se queira, gente.
 
 172
-00:06:43,159 --> 00:06:47,159
-Então, você pode pegar na manusa ali no prumpo de dele e colocar várias tarefas,
+00:05:57,000 --> 00:05:58,000
+Se queira, bitt.
 
 173
-00:06:47,159 --> 00:06:48,959
-uma que não tem nada a ver com a outra.
+00:05:58,000 --> 00:06:00,000
+Lá vai pague lá, bitt.
 
 174
-00:06:48,959 --> 00:06:50,359
-Ela meio que recebe aqui o lento.
+00:06:01,000 --> 00:06:02,000
+Mano, lá, goa.
 
 175
-00:06:50,359 --> 00:06:54,799
-Igual o bereno falou como se fosse um job e ela já distribui pros agentes dentro dela,
+00:06:03,000 --> 00:06:04,000
+Pera aí, gente.
 
 176
-00:06:54,799 --> 00:06:55,799
-cara.
+00:06:05,000 --> 00:06:06,000
+O level vai pajantar.
 
 177
-00:06:55,799 --> 00:06:56,319
-Essa é essa bala, ó, cara.
+00:06:06,000 --> 00:06:07,000
+O outro fez o jantar.
 
 178
-00:06:56,319 --> 00:07:01,719
-E elas vão tomando ações e decisões sem depender de você
+00:06:07,000 --> 00:06:09,000
+E você já vai jantar, é?
 
 179
-00:07:01,720 --> 00:07:02,840
-pra te entregar o negócio.
+00:06:09,000 --> 00:06:10,000
+Qual lugar?
 
 180
-00:07:02,840 --> 00:07:04,480
-E você abre o malega, ó, cara.
+00:06:10,000 --> 00:06:11,000
+Deiga-se.
 
 181
-00:07:04,480 --> 00:07:06,680
-Você abre o monitorzinho aqui e fica vendo ela,
+00:06:13,000 --> 00:06:14,000
+Com isso?
 
 182
-00:07:06,680 --> 00:07:07,720
-fica vendo ela trabalhar.
+00:06:14,000 --> 00:06:16,000
+Eu nunca fui a um motel novo.
 
 183
-00:07:07,720 --> 00:07:08,480
-Isso já assustando.
+00:06:16,000 --> 00:06:19,000
+Em São Pedro, mais dizem que é uma melhora que derrigia, né?
 
 184
-00:07:08,480 --> 00:07:09,760
-Do que ela tá fazendo, cara.
+00:06:19,000 --> 00:06:20,000
+Então...
 
 185
-00:07:09,760 --> 00:07:10,880
-Tudo que ela tá fazendo.
+00:06:20,000 --> 00:06:22,000
+Não calfa o fúi, mas dizem que é o melhor.
 
 186
-00:07:10,880 --> 00:07:12,280
-Não, estou acessando tal coisa.
+00:06:24,000 --> 00:06:27,000
+Pergunte a cruciala, aquela que vai eliminar
 
 187
-00:07:12,280 --> 00:07:13,760
-Estou rolando a parte.
+00:06:27,000 --> 00:06:28,000
+maioria dos homens.
 
 188
-00:07:13,760 --> 00:07:15,400
-Ela escreve, estou rolando a parte.
+00:06:28,000 --> 00:06:31,000
+Quanto tempo é ideal pra ter o ano de incrível contigo?
 
 189
-00:07:15,400 --> 00:07:18,080
-A cara, às vezes eu perco ali um zintimundo,
+00:06:31,000 --> 00:06:34,000
+Então, eu não gosto muito demorado, mas eu não gosto muito.
 
 190
-00:07:18,080 --> 00:07:18,600
-eu tô bem avindo.
+00:06:34,000 --> 00:06:35,000
+Apenas, eu não gosto muito.
 
 191
-00:07:18,600 --> 00:07:20,200
-Então, que é uma estiguaira só eu vou fazer a isso.
+00:06:35,000 --> 00:06:37,000
+Pelo menos ali, 40 minutos.
 
 192
-00:07:20,200 --> 00:07:23,160
-Eu pego um zintimundo, eu falo cara, não é isso aqui.
+00:06:38,000 --> 00:06:40,000
+Vamos lá, vamos lá, vamos lá, vamos lá.
 
 193
-00:07:23,160 --> 00:07:24,440
-Não é possível, cara.
+00:06:41,000 --> 00:06:42,000
+Já ali eu rapazi, óbvio.
 
 194
-00:07:24,440 --> 00:07:27,320
-Mas dá um exemplo do troço legal que se pediu promano e esfazendo.
+00:06:42,000 --> 00:06:43,000
+Vai tomar no cu.
 
 195
-00:07:27,320 --> 00:07:30,800
-Então, cara, eu vou pegar coisa daquel faço no meu dia a dia, tá?
+00:06:43,000 --> 00:06:44,000
+Vai ficar solterro.
 
 196
-00:07:30,800 --> 00:07:31,920
-Não, não é nada assim.
+00:06:48,000 --> 00:06:50,000
+Quarenta minutos tá malo.
 
 197
-00:07:31,920 --> 00:07:32,920
-É grão.
+00:06:50,000 --> 00:06:51,000
+Meora.
 
 198
-00:07:32,920 --> 00:07:33,920
-Não, não, não, não, não.
+00:06:51,000 --> 00:06:54,000
+Vai ficar solterro por aje da vida.
 
 199
-00:07:33,920 --> 00:07:34,920
-Não, brincadeirinha, vai.
+00:06:55,000 --> 00:06:56,000
+Qual foi?
 
 200
-00:07:34,920 --> 00:07:37,040
-Mas brincadeirinha, eu tenho meu blog que é o espêcho
+00:06:56,000 --> 00:06:57,000
+Tem a cuenta?
 
 201
-00:07:37,040 --> 00:07:38,040
-dei ponto com o pé.
+00:06:57,000 --> 00:07:00,000
+Nesse juntar um poro aqui vai estar 40 minutos.
 
 202
-00:07:38,040 --> 00:07:40,280
-É um dia, eu posso notícia, já se trono a mítal.
+00:07:00,000 --> 00:07:02,000
+Não, é possível, meu aora, então pelo menos.
 
 203
-00:07:40,280 --> 00:07:44,160
-É o saco ficar caçando a notícia, vendo o que é que é a ital.
+00:07:02,000 --> 00:07:03,000
+Meora.
 
 204
-00:07:44,160 --> 00:07:45,160
-O que é o fiso?
+00:07:05,000 --> 00:07:07,000
+Oi, no 25 de opano?
 
 205
-00:07:45,160 --> 00:07:46,759
-Um pronta de zão, entendeu?
+00:07:07,000 --> 00:07:10,000
+Se eu for 25 de opano, esse 5 de opano é 5 metem.
 
 206
-00:07:46,759 --> 00:07:50,240
-Falando assim, eu vou ser vai agir como um astronome especialista
+00:07:10,000 --> 00:07:11,000
+Só isso?
 
 207
-00:07:50,240 --> 00:07:51,800
-em julgação científica.
+00:07:11,000 --> 00:07:13,000
+Só isso, está doido.
 
 208
-00:07:51,800 --> 00:07:56,080
-Você vai pesquisar esse esse site, você vai decidir qual que é a notícia
+00:07:13,000 --> 00:07:14,000
+No metem.
 
 209
-00:07:56,080 --> 00:08:00,080
-mais relevante com base no Google World da vida e com base nisso,
+00:07:14,000 --> 00:07:15,000
+Perferem metem?
 
 210
-00:08:00,079 --> 00:08:02,839
-você vai pegar a notícia, você vai traduzir para o português,
+00:07:15,000 --> 00:07:16,000
+Ah, ah.
 
 211
-00:08:02,839 --> 00:08:06,319
-você vai preparar a notícia do maneira que seja boa para o público
+00:07:16,000 --> 00:07:17,000
+O que?
 
 212
-00:08:06,319 --> 00:08:09,639
-leigo e aí pronto, cara, eu solto lá e aí você vê,
+00:07:19,000 --> 00:07:20,000
+Ah, foi um perfil, não é?
 
 213
-00:08:09,639 --> 00:08:12,719
-estou acessando o site tal, estou lendo, passei agora,
+00:07:20,000 --> 00:07:21,000
+Tem metem.
 
 214
-00:08:12,719 --> 00:08:15,519
-estou fazendo tal coisa, cara, você vai vindo cada tudo.
+00:07:21,000 --> 00:07:23,000
+Eu tenho a minha coração, mas tenho a fazer.
 
 215
-00:08:15,519 --> 00:08:19,319
-E no final ela vai perguntando meio, mas você não falou
+00:07:23,000 --> 00:07:25,000
+Ah, tem como não.
 
 216
-00:08:19,319 --> 00:08:20,519
-se você quer um...
+00:07:25,000 --> 00:07:27,000
+Não, mas faz os forços, parenta.
 
 217
-00:08:20,519 --> 00:08:24,279
-O que é um artigo, você quer de ser jeito, você quer que eu ter
+00:07:27,000 --> 00:07:28,000
+O oranthel, olha.
 
 218
-00:08:24,279 --> 00:08:26,959
-seja assim, ou seja, você quer que eu pego em a figura ou não?
+00:07:28,000 --> 00:07:30,000
+E traga 37 por 3.
 
 219
-00:08:26,959 --> 00:08:30,039
-Aí eu quero figura, aí você vê ela disparar para o outro, a gente.
+00:07:30,000 --> 00:07:32,000
+37 por 3 metem.
 
 220
-00:08:30,040 --> 00:08:33,039
-Para o cara fazer a figura ou a gente ali, então...
+00:07:32,000 --> 00:07:34,000
+Já diminui o 10 por ela, pediu só 30.
 
 221
-00:08:33,039 --> 00:08:34,039
-Cara, eu me gosto de falar.
+00:07:35,000 --> 00:07:37,000
+Trentinha contando o dobe, ó.
 
 222
-00:08:34,039 --> 00:08:36,039
-E se ela é bem é o ponto principal que quando a gente está falando,
+00:07:37,000 --> 00:07:38,000
+Tá vindo, vamos marcar.
 
 223
-00:08:36,039 --> 00:08:39,039
-isso é certeza que deve ter alguém falando, se há, mas isso aí,
+00:07:38,000 --> 00:07:41,000
+Não, não, 30, desde a hora que começou.
 
 224
-00:08:39,039 --> 00:08:42,039
-o chapitígia pede faz, se programa a tarefa e faz,
+00:07:41,000 --> 00:07:42,000
+Em cabeçor?
 
 225
-00:08:42,039 --> 00:08:45,039
-então a diferença é que o chapitígia pede ele inerro,
+00:07:42,000 --> 00:07:43,000
+É.
 
 226
-00:08:45,039 --> 00:08:48,039
-se a gente vai seguir, porra, ele...
+00:07:43,000 --> 00:07:45,000
+Valeando do mingô.
 
 227
-00:08:48,039 --> 00:08:51,039
-É como se fosse aquela janela, ele vai seguir.
+00:07:46,000 --> 00:07:48,000
+Caralhinho, caralhinho, caralhinho do google.
 
 228
-00:08:51,039 --> 00:08:54,039
-Ele não, ele crosa a gente mesmo,
+00:07:48,000 --> 00:07:49,000
+É a civilidade de 30?
 
 229
-00:08:54,039 --> 00:08:57,039
-então você consegue configurar diversos agentes,
+00:07:49,000 --> 00:07:50,000
+Se vira no estrem.
 
 230
-00:08:57,039 --> 00:08:59,039
-e daí eu vou te dar o exemplo do que eu fiz que foi brincadeira.
+00:07:50,000 --> 00:07:52,000
+Tá estudando?
 
 231
-00:08:59,039 --> 00:09:02,039
-E esse que eu te falei da agência de publicidade é de verdade.
+00:07:52,000 --> 00:07:54,000
+Não, já tem nem.
 
 232
-00:09:02,039 --> 00:09:07,039
-Eu crey cinco personas para me ajudar agora a cuidar das minhas redes sociais,
+00:07:54,000 --> 00:07:55,000
+Trabalhando?
 
 233
-00:09:07,039 --> 00:09:11,039
-que eu tô num momento ali de tentar vender algumas coisas online e tudo.
+00:07:55,000 --> 00:07:56,000
+É.
 
 234
-00:09:11,039 --> 00:09:14,039
-E daí eu piquei crey, um cara de redação, o design,
+00:07:56,000 --> 00:07:58,000
+Legal, focado não só, hein, não sei.
 
 235
-00:09:14,039 --> 00:09:17,039
-com o característico, é o que todo mundo que eu adimiro,
+00:07:58,000 --> 00:07:59,000
+Sim, sim.
 
 236
-00:09:17,039 --> 00:09:18,039
-o que eu gosto de comunicação,
+00:07:59,000 --> 00:08:00,000
+Legal.
 
 237
-00:09:18,039 --> 00:09:20,039
-o que eu monte de vídeo, meu pra...
+00:08:00,000 --> 00:08:03,000
+Tu faria um privas.
 
 238
-00:09:20,039 --> 00:09:23,039
-A justa meu tom de voz, e eu dou o primeiro comando
+00:08:03,000 --> 00:08:06,000
+Com ela?
 
 239
-00:09:23,039 --> 00:09:26,039
-para determinado o job, então hoje mesmo,
+00:08:06,000 --> 00:08:09,000
+Em um sensal, eu faz, em um sensal, eu vou.
 
 240
-00:09:26,039 --> 00:09:28,039
-eu preciso fazer frases inspiradoras,
+00:08:09,000 --> 00:08:11,000
+Faria, por.
 
 241
-00:09:28,039 --> 00:09:31,039
-de empreendedorismo, no estilo tal,
+00:08:11,000 --> 00:08:12,000
+Faria?
 
 242
-00:09:31,039 --> 00:09:33,039
-querendo usar esse livro como base.
+00:08:12,000 --> 00:08:15,000
+Faria, mas eu fotei em este com caralhinho.
 
 243
-00:09:33,039 --> 00:09:36,039
-Uma gente falou com outro, e eles pegaram falar assim,
+00:08:15,000 --> 00:08:16,000
+Com ele.
 
 244
-00:09:36,039 --> 00:09:38,039
-o legal que eles provou, como também.
+00:08:16,000 --> 00:08:18,000
+Se eu tivesse um privas faria.
 
 245
-00:09:38,039 --> 00:09:40,039
-Ah, mas isso daqui a gente usou na semana passada,
+00:08:18,000 --> 00:08:19,000
+Caralhinho.
 
 246
-00:09:40,039 --> 00:09:43,039
-que ele tem um histórico, que está o impor essa linha,
+00:08:19,000 --> 00:08:21,000
+Você gerai já é um ap...
 
 247
-00:09:43,039 --> 00:09:46,039
-topa, topo, e o legal que é linguagem-fica natural,
+00:08:21,000 --> 00:08:23,000
+Ela quer crescer em uma parceria boa.
 
 248
-00:09:46,039 --> 00:09:48,039
-é conforme você é fato, eu falo muito cari, topo,
+00:08:23,000 --> 00:08:25,000
+Ó, ótima parceria, foi lá.
 
 249
-00:09:48,039 --> 00:09:50,039
-então não cheitezinho, porque assim topa,
+00:08:25,000 --> 00:08:26,000
+E que parceria?
 
 250
-00:09:50,039 --> 00:09:51,039
-o topo, e ele se é...
+00:08:26,000 --> 00:08:28,000
+Calma gente, estamos contendo.
 
 251
-00:09:51,039 --> 00:09:54,039
-Toalimenta, ele com a topa própria base de dados,
+00:08:28,000 --> 00:08:29,000
+Tá lá.
 
 252
-00:09:54,039 --> 00:09:56,039
-porque você quer querer faça alguma coisa,
+00:08:29,000 --> 00:08:30,000
+Foi?
 
 253
-00:09:56,039 --> 00:09:57,039
-para não ficar um negócio opção,
+00:08:30,000 --> 00:08:32,000
+Tá da linda começando a partir de...
 
 254
-00:09:57,039 --> 00:09:59,039
-ficou negócio muito mecânico.
+00:08:32,000 --> 00:08:34,000
+Tá lá, capa o coração, tá lá.
 
 255
-00:09:59,039 --> 00:10:01,039
-Então para colocar, por exemplo, meu site,
+00:08:34,000 --> 00:08:37,000
+Pensa na canta da boa volta já já.
 
 256
-00:10:01,039 --> 00:10:04,039
-lá tem 20 mil pouxas, eu dei meu site todo para ele,
+00:08:37,000 --> 00:08:39,000
+Tu é do jujito.
 
 257
-00:10:04,039 --> 00:10:06,039
-pega em meus pouxas, tudo, e ponho meu tom,
+00:08:39,000 --> 00:08:40,000
+Passa não?
 
 258
-00:10:06,039 --> 00:10:09,039
-e aí ele vai escrever o texto final,
+00:08:40,000 --> 00:08:41,000
+Não, não faria o tamanho.
 
 259
-00:10:09,039 --> 00:10:11,039
-e você pode pegar um texto técnico,
+00:08:41,000 --> 00:08:43,000
+Não só vamos esclarar o mesmo.
 
 260
-00:10:11,039 --> 00:10:13,039
-porque só que ele vai escrever naquele meu tom.
+00:08:43,000 --> 00:08:44,000
+Escolação?
 
 261
-00:10:13,039 --> 00:10:14,039
-Isso é muito legal.
+00:08:44,000 --> 00:08:45,000
+Já não tá indo.
 
 262
-00:10:14,039 --> 00:10:17,039
-Então vamos lá, no meu caso eu teria que pegar,
+00:08:45,000 --> 00:08:46,000
+É, não.
 
 263
-00:10:17,039 --> 00:10:19,039
-se eu quiser se alimentar com a minha,
+00:08:46,000 --> 00:08:47,000
+Parei de...
 
 264
-00:10:19,039 --> 00:10:21,039
-com o que eu congei, que eu penso,
+00:08:47,000 --> 00:08:49,000
+Carma, grim.
 
 265
-00:10:21,039 --> 00:10:23,039
-eu ia ter que fazer transformar todos os flores,
+00:08:49,000 --> 00:08:51,000
+Você tá caralhinho, também.
 
 266
-00:10:23,039 --> 00:10:25,039
-no volume a que não vi.
+00:08:51,000 --> 00:08:53,000
+Tá fazendo uma situação?
 
 267
-00:10:25,039 --> 00:10:26,039
-Valendo os flores.
+00:08:53,000 --> 00:08:54,000
+É, mas não tem o seu pedindo, né.
 
 268
-00:10:28,039 --> 00:10:30,379
-Eles já tem Vincent,
+00:08:54,000 --> 00:08:58,000
+Não, mas é que vocês focam na bunda e eles nos braçam no peito, né.
 
 269
-00:10:31,019 --> 00:10:33,039
-eastz är muito foda,
+00:08:58,000 --> 00:08:59,000
+E aí?
 
 270
-00:10:33,039 --> 00:10:34,039
-which tinha pity a puxe,
+00:08:59,000 --> 00:09:01,000
+Não, que eu tenho de braça, eu tenho de bunda, evidente.
 
 271
-00:10:34,039 --> 00:10:35,039
-então vai jogar a hoje em minha film.
+00:09:01,000 --> 00:09:02,000
+E aí, faz a gente...
 
 272
-00:10:35,039 --> 00:10:37,039
-Pelo jeito não consigo estar ouá,
+00:09:02,000 --> 00:09:05,000
+Caralhis agirou pra caralhão.
 
 273
-00:10:37,039 --> 00:10:38,039
-mas muitas vezes aquilo veio o vídeo,
+00:09:05,000 --> 00:09:10,000
+Tinha ver tu as costas.
 
 274
-00:10:38,039 --> 00:10:40,019
-e vocês têm characteristics.
+00:09:10,000 --> 00:09:11,000
+Tinha ver tu as costas.
 
 275
-00:10:40,019 --> 00:10:40,779
-Ils eu te Grüeutchi mesmo.
+00:09:11,000 --> 00:09:14,000
+Tinha...
 
 276
-00:10:41,039 --> 00:10:42,819
-Então, porém, vida é verdade que isso é muito foda lá,
+00:09:14,000 --> 00:09:17,000
+Tinha...
 
 277
-00:10:43,059 --> 00:10:44,059
-e se dei jogar o link,
+00:09:17,000 --> 00:09:20,000
+Tinha aqui no treis rapidinho, que eles me deram mais dea boa.
 
 278
-00:10:44,059 --> 00:10:46,059
-ele deve ter vez fazendo hoje,
+00:09:20,000 --> 00:09:23,000
+Olha pra frente, vem cá, transgumir.
 
 279
-00:10:46,059 --> 00:10:47,039
-lugares portales maisables,
+00:09:23,000 --> 00:09:26,000
+Mas, safé ela, joga o cabelo do outro lado, mas, por favor.
 
 280
-00:10:47,039 --> 00:10:50,039
-hoje os pátixos de gelegem cheirem muito obrigado
+00:09:26,000 --> 00:09:27,000
+Doutos.
 
 281
-00:10:50,039 --> 00:10:51,039
-a opening.
+00:09:27,000 --> 00:09:29,000
+Mas safé ela.
 
 282
-00:10:51,039 --> 00:10:57,039
-uma cara ele traz tudo, mas muito, isso é com o seguim, tem muito legal, outro que eu tenho
+00:09:29,000 --> 00:09:32,000
+O rigido do leão.
 
 283
-00:10:57,039 --> 00:11:03,439
-fazer de brincadeira com ele, eu peguei, eu quero que você peça uma pizza, eu estava
+00:09:32,000 --> 00:09:35,000
+Mas, safé no vídeo, hein, bebeça ela gosta.
 
 284
-00:11:03,439 --> 00:11:07,559
-encampi, eu queria ver ele na vegano no site, eu vou ver se ele achava tudo, uma pizza aqui na
+00:09:35,000 --> 00:09:36,000
+Ação.
 
 285
-00:11:07,559 --> 00:11:11,959
-minha casa, em campinas, você não sei o que eu quero tal pizza de pepperoni, tudo e eu pedi um
+00:09:36,000 --> 00:09:38,000
+O...
 
 286
-00:11:11,959 --> 00:11:18,679
-negócio muito sacana, a lítico rúcula, tá, eu acho que não existe nenhuma, eu acho que não
+00:09:38,000 --> 00:09:40,000
+Repiói, meu.
 
 287
-00:11:18,679 --> 00:11:22,719
-não é com a lítica, eu quase pedi um cobertor e chocolate pra ver como ele é se comporta,
+00:09:40,000 --> 00:09:42,000
+Repiói, vale a patrâncio.
 
 288
-00:11:22,719 --> 00:11:27,959
-também não, então, criativo na hora, e cara, foi animal que você vê, exatamente ele pegava o Google,
+00:09:44,000 --> 00:09:46,000
+Oitavive.
 
 289
-00:11:27,959 --> 00:11:33,079
-ele começa a fazer a busca, ele pegava localização, permite a localização pelo sistema,
+00:09:46,000 --> 00:09:48,000
+Pagote.
 
 290
-00:11:33,079 --> 00:11:38,799
-para ele pegar, ele começa a pegar a pegoas pizzaarias, entrou em sete de cada uma
+00:09:48,000 --> 00:09:49,000
+Bastante.
 
 291
-00:11:38,799 --> 00:11:44,079
-viu, ele pegou minha retorno assim, não conseguia achar a lítica rúcula, mas posso fazer a ordem
+00:09:49,000 --> 00:09:52,000
+Jogamos aqui do curso pra ela.
 
 292
-00:11:44,080 --> 00:11:51,120
-do alí, da pizza de alíte, com o núceo que é lá, e a rúcula então é errado, muito maneiro,
+00:09:52,000 --> 00:09:55,000
+O nosso primeiro beijo.
 
 293
-00:11:51,120 --> 00:11:55,120
-não, demais, a luz é sensação, oze é a manuz, galera, é, é, é, é, é, é, é, é, é, é,
+00:09:55,000 --> 00:09:59,000
+Eu vou ser uma casinha, geladeira cheia,
 
 294
-00:11:55,120 --> 00:11:59,160
-você vai ver a vida de vocês, vai ter um, tá isso, ou, ou, ou, ou, menino corporativo, só
+00:09:59,000 --> 00:10:03,000
+do medio com a chinha, depois de uma brincadeira.
 
 295
-00:11:59,160 --> 00:12:04,520
-tome cuidado e não compartilhe nenhum informação de seu trabalho, tá, lá, então cuidado,
+00:10:03,000 --> 00:10:06,000
+Sabe o que está faltando?
 
 296
-00:12:04,520 --> 00:12:10,759
-não posso sair isso, tem atenção porque hoje também eu já de repetir, essas outras ferramentas,
+00:10:07,000 --> 00:10:10,000
+O nosso primeiro beijo.
 
 297
-00:12:10,759 --> 00:12:16,019
-não vai na pena de sempre lembrar, tá indo para não inventar, então assim, tá, ainda,
+00:10:10,000 --> 00:10:12,000
+O nosso primeiro beijo.
 
 298
-00:12:16,019 --> 00:12:19,779
-para uma aba de conhecimento comum em público ali, então se você tiver qualquer tipo de
+00:10:12,000 --> 00:10:14,000
+O nosso primeiro beijo.
 
 299
-00:12:19,779 --> 00:12:23,620
-informação, confidencial, só tomar cuidado para não jogar lá porque, em determinado
+00:10:14,000 --> 00:10:15,000
+O nosso primeiro beijo.
 
 300
-00:12:23,620 --> 00:12:26,700
-momento, algum tipo de pergunta pode acessar essa informação, tá?
+00:10:15,000 --> 00:10:17,000
+O nosso primeiro beijo.
 
 301
-00:12:26,700 --> 00:12:29,980
-E da empresa, como que você faz isso dentro lá, que você falou que você tá usando, já se
+00:10:17,000 --> 00:10:18,000
+O nosso primeiro, hein?
 
 302
-00:12:29,980 --> 00:12:33,299
-pede lá dentro, lá, a gente tem um sistema de segurança, é, você é um sistema de segurança,
+00:10:18,000 --> 00:10:22,000
+Eu vou ser uma casinha, geladeira cheia,
 
 303
-00:12:33,719 --> 00:12:38,379
-talvez, se aqueles que nem sabem quemEu obrenO kapé, é pé, é sempre bem deu certo.
+00:10:22,000 --> 00:10:25,000
+do medio com a chinha, depois de uma brincadeira.
 
 304
-00:12:38,379 --> 00:12:44,359
-Eu parlevamos vamos lá, além de ter de bloqueado alv minute né London, nehme, mindoo é
+00:10:25,000 --> 00:10:27,000
+Sabe o que está?
 
 305
-00:12:44,359 --> 00:12:46,659
-application doLIKE, 2.17, está.
+00:10:28,000 --> 00:10:31,000
+O nosso primeiro beijo.
 
 306
-00:12:46,659 --> 00:12:47,959
-Lovinda, Remissé, quando é que lançar o iPhone?!
+00:10:37,000 --> 00:10:40,000
+Tu já deu o primeiro beijo hoje, abriada?
 
 307
-00:12:47,959 --> 00:12:50,899
-Em 60, ainda,가락 A. Falca Rádio Someforia, Man道 S digressado com o
+00:10:40,000 --> 00:10:42,000
+Putá aqui.
 
 308
-00:12:50,899 --> 00:12:57,659
-andar no Brasil cristâmico jackupofofofofofofofofofofofofofofifofofofofofofofofofofofofofofofofofofofofofofofofofofofofofofofofofofof laughed
+00:10:44,000 --> 00:10:46,000
+Putá lá, vai lá, vai lá.
 
 309
-00:12:57,659 --> 00:13:01,240
-com o Rio de Janeiro e na França mais de bastante para 700 horas e
+00:10:47,000 --> 00:10:49,000
+Rapaz.
 
 310
-00:13:01,240 --> 00:13:02,899
-rider very Sophie transferente reino SPD que está tudo.
+00:10:51,000 --> 00:10:52,000
+É ligado.
 
 311
-00:13:02,899 --> 00:13:07,259
-na infúdia. Então esse é o breno. Então é por isso que ele consegue falar de
+00:10:52,000 --> 00:10:53,000
+Caralho.
 
 312
-00:13:07,259 --> 00:13:09,579
-coisas do iFood com um pouco mais propriedade.
+00:10:53,000 --> 00:10:55,000
+E a outra assistindo em qual uma traja assim?
 
 313
-00:13:09,579 --> 00:13:12,819
-É legal, é a presença diferente, assim, por sua amigo do Iigo.
+00:10:55,000 --> 00:10:57,000
+Putá aí, eu.
 
 314
-00:13:12,819 --> 00:13:14,100
-Porra é legal, é legal.
+00:10:57,000 --> 00:10:59,000
+E eu.
 
 315
-00:13:14,100 --> 00:13:18,259
-O grandeza é o do Sejão, o que que gosta de falar e do caidéia sobre tecnologia.
+00:10:59,000 --> 00:11:01,000
+Tu nem pensé, viu?
 
 316
-00:13:18,259 --> 00:13:22,419
-Travario também com a nova santo, mas hoje meu cargo oficial é o
+00:11:01,000 --> 00:11:04,000
+Ele, o nosso primeiro beijo.
 
 317
-00:13:22,419 --> 00:13:25,860
-expresidente lá no iFood, mas o que eu mais gosto, cara, que eu provo
+00:11:04,000 --> 00:11:08,000
+E a outra assistindo em a pilnavação, bapor.
 
 318
-00:13:25,860 --> 00:13:29,340
-tanto todo mundo, é o socurioso paciante. E eu acho que hoje a gente está
+00:11:08,000 --> 00:11:10,000
+Olha pra ela.
 
 319
-00:13:29,340 --> 00:13:31,139
-perdendo um pouco dessa curiosidade, sabe?
+00:11:10,000 --> 00:11:12,000
+Faça.
 
 320
-00:13:31,139 --> 00:13:33,540
-Pessoalmente, então você é uma olhecada.
+00:11:12,000 --> 00:11:15,000
+A gente não está esperando nada de você.
 
 321
-00:13:33,540 --> 00:13:37,019
-E as pessoas que estão falando que tem que ir a negabe, que vamos ao
+00:11:15,000 --> 00:11:18,000
+Então tenta não estragar tudo.
 
 322
-00:13:37,019 --> 00:13:37,560
-que é isso.
+00:11:18,000 --> 00:11:20,000
+Faça sua melhor cantada.
 
 323
-00:13:37,560 --> 00:13:40,860
-Porque o IFood, quando lançar o IFood, ele está por dentro,
+00:11:20,000 --> 00:11:22,000
+Pé, só falar da melodia empanagem.
 
 324
-00:13:40,860 --> 00:13:42,100
-aí, de que está rolando.
+00:11:22,000 --> 00:11:23,000
+Dá uma volta?
 
 325
-00:13:42,100 --> 00:13:44,700
-Porque o mais assim, é estimular o que está assistindo isso, cara.
+00:11:23,000 --> 00:11:26,000
+Dá uma volta e ele vai virar.
 
 326
-00:13:44,700 --> 00:13:48,500
-Fica mais curioso, começa a experimentar no tem medo de ir a a
+00:11:31,000 --> 00:11:32,000
+Qual foi?
 
 327
-00:13:48,500 --> 00:13:49,139
-sabe?
+00:11:32,000 --> 00:11:34,000
+Dá uma puxadinha que pode respirar daqui.
 
 328
-00:13:49,139 --> 00:13:51,820
-Eu falo muito, parede de gastar nosso seu tempo ali no
+00:11:34,000 --> 00:11:36,000
+Tudo é, a gente mata?
 
 329
-00:13:51,820 --> 00:13:52,620
-Tic Tokson.
+00:11:36,000 --> 00:11:38,000
+E você cancela, ó.
 
 330
-00:13:52,620 --> 00:13:53,660
-É, tá tá tá tá tá tá tá tá tá tá tá tá tá tá tá tá tá tá tá tá tá
+00:11:40,000 --> 00:11:42,000
+Fala essa sua melhor cantada.
 
 331
-00:13:53,660 --> 00:13:55,180
-tá pra você fazer as coisas mais legais.
+00:11:42,000 --> 00:11:44,000
+Pé, não é de urbú.
 
 332
-00:13:55,180 --> 00:13:56,180
-Muito mais legal.
+00:11:44,000 --> 00:11:45,000
+Aza de galinhas.
 
 333
-00:13:56,180 --> 00:13:58,740
-Eu fico brim, assim, não está falando, vamos lá, pra não perder o
+00:11:45,000 --> 00:11:47,000
+Se você quer mandar um beijo, dá uma resadinha.
 
 334
-00:13:58,740 --> 00:13:59,740
-Fidamiado.
+00:11:53,000 --> 00:11:55,000
+Não, ela rima, está.
 
 335
-00:13:59,740 --> 00:14:02,580
-Já te petei no IFood, como é que faz pra manter?
+00:11:56,000 --> 00:11:58,000
+Calma.
 
 336
-00:14:02,580 --> 00:14:05,500
-É, não é, é como que faz pra as empresas, né?
+00:11:58,000 --> 00:12:00,000
+De ela que vai escolher, gente.
 
 337
-00:14:05,500 --> 00:14:08,860
-E isso é que como você está usando lá dentro, tem vários que coisas de
+00:12:00,000 --> 00:12:02,000
+Olha, eu achei diferente, realmente.
 
 338
-00:14:08,860 --> 00:14:09,860
-segurança.
+00:12:03,000 --> 00:12:06,000
+Não esperava em 2025, algo tão.
 
 339
-00:14:09,860 --> 00:14:10,860
-Isso, né?
+00:12:07,000 --> 00:12:09,000
+Vai muito bom, vai lá pra trás.
 
 340
-00:14:10,860 --> 00:14:12,659
-É o que a gente chama, pode de guarde aí, eu imagina que a gente
+00:12:09,000 --> 00:12:10,000
+Caralho.
 
 341
-00:14:12,659 --> 00:14:16,659
-contrata serviços a um direi carante que tudo que está sendo
+00:12:10,000 --> 00:12:12,000
+Faça sua melhor cantada.
 
 342
-00:14:16,659 --> 00:14:19,899
-trocado ali dentro, ele não vai pro superclós.
+00:12:12,000 --> 00:12:14,000
+Gata, você gosta do barulho do mar.
 
 343
-00:14:19,899 --> 00:14:23,820
-Então, basicamente as instâncias que você tem do opening aí, pagas,
+00:12:14,000 --> 00:12:16,000
+Curte o barulho do mar.
 
 344
-00:14:23,820 --> 00:14:27,500
-no modelo interprós, eles não vão pro modelo principal.
+00:12:16,000 --> 00:12:17,000
+Porra.
 
 345
-00:14:27,500 --> 00:14:29,340
-Fica lá, tá é aquele negócio?
+00:12:17,000 --> 00:12:18,000
+Sim, por quê?
 
 346
-00:14:29,340 --> 00:14:32,419
-Você acredita, não, não, são outros que as mais que não contratos
+00:12:18,000 --> 00:12:20,000
+Então vamos dormir de continha.
 
 347
-00:14:32,419 --> 00:14:33,779
-está escrito, é isso.
+00:12:23,000 --> 00:12:25,000
+Porra essa imérsia amada, essa cancua.
 
 348
-00:14:33,779 --> 00:14:37,620
-É, você pega e tem outras empresas, copá-lo, te Microsoft, a mesma coisa,
+00:12:26,000 --> 00:12:30,000
+Porra essa é muito diferente, mas porque a conxinha já é piado,
 
 349
-00:14:37,620 --> 00:14:41,899
-a gente usa muito copá-lo, te lá, tanto pra fazer a código, como verificar
+00:12:30,000 --> 00:12:32,000
+o barulho do mar em volta e muito.
 
 350
-00:14:41,899 --> 00:14:43,620
-código e compro edução.
+00:12:32,000 --> 00:12:34,000
+E eu gostei de uma coisa dele, tá?
 
 351
-00:14:43,620 --> 00:14:46,620
-Muito bem, a parte do momento de ser pagas, você tem uma instância
+00:12:34,000 --> 00:12:36,000
+Eu não estou fazendo favoritismo, não.
 
 352
-00:14:46,620 --> 00:14:50,220
-fechada ali também, perplexe, a outra que a gente faz.
+00:12:36,000 --> 00:12:37,000
+Mas ele tem muito foco.
 
 353
-00:14:50,220 --> 00:14:53,019
-E uma das coisas que a gente fez não é Food que foi incrível e da imérito
+00:12:37,000 --> 00:12:39,000
+Ficou te olho no uso.
 
 354
-00:14:53,019 --> 00:14:56,299
-ali pro time, principalmente pro nosso sitio, ou que é um cara fantástico ou
+00:12:39,000 --> 00:12:42,000
+Jímeramente eu faço assim, o cara me olha, olha, olha.
 
 355
-00:14:56,299 --> 00:15:01,219
-flave, vai estar cabeça, a gente criou um negócio que a gente chama de DIN PLAT.
+00:12:42,000 --> 00:12:45,000
+Ele nem eu lembro a mim, ele ficou assim, falava o foco.
 
 356
-00:15:01,219 --> 00:15:05,219
-Então a gente criou como se fosse um mido, é um, um meia do caminho.
+00:12:45,000 --> 00:12:47,000
+Tenta anúncia da gata tudo.
 
 357
-00:15:05,219 --> 00:15:09,659
-Imagina que se a gente chega na estrada e daí tem várias ruas.
+00:12:47,000 --> 00:12:48,000
+Faça.
 
 358
-00:15:09,659 --> 00:15:12,819
-E daí ele vai pro eu tá assim, com rua que eu pego agora, então não dependendo do
+00:12:48,000 --> 00:12:50,000
+A sua melhor cantada.
 
 359
-00:15:12,819 --> 00:15:17,179
-tipo de prumpo, que você escreve, que você pede lá, na acessionária, a gente decide
+00:12:50,000 --> 00:12:52,000
+Você gosta de pipoca.
 
 360
-00:15:17,179 --> 00:15:20,179
-qual que é a melhor tecnologia para você usar.
+00:12:55,000 --> 00:12:56,000
+Gosta de pipoca.
 
 361
-00:15:20,179 --> 00:15:24,019
-Então a gente já abistra isso, e daí a gente tem uma economia de custo, a gente consegue
+00:12:56,000 --> 00:12:58,000
+Cara aí, gente.
 
 362
-00:15:24,019 --> 00:15:28,340
-dar respostos mais precisas, a gente consegue saber qual que é o a gente ou então
+00:12:59,000 --> 00:13:01,000
+Gosta de pipoca?
 
 363
-00:15:28,340 --> 00:15:32,460
-o qual tinha inteligência melhor treinada para determinada, a área mais hoje, o Aifood
+00:13:01,000 --> 00:13:02,000
+Gosta, por quê?
 
 364
-00:15:32,460 --> 00:15:37,179
-já estrei uma mente seguro em relação a dados, porque a gente toma muito cuidado.
+00:13:02,000 --> 00:13:06,000
+Vamos fazer igual, primeiro a gente aquece, depois a poca, o poca, o poca.
 
 365
-00:15:37,179 --> 00:15:41,299
-A gente horenta todos nossos funcionários, aosarem essas ferramentas internas.
+00:13:07,000 --> 00:13:09,000
+Opa!
 
 366
-00:15:41,299 --> 00:15:47,659
-E daí, o nosso investidor tem uma ferramenta animal chamado Tocan, que é o nosso chat
+00:13:11,000 --> 00:13:13,000
+Puta aqui, pariu.
 
 367
-00:15:47,659 --> 00:15:48,659
-IPT.
+00:13:13,000 --> 00:13:14,000
+Caralho atrás.
 
 368
-00:15:48,659 --> 00:15:52,299
-Isso aqui ele funcionou em todas as empresas do grupo e daí ele tem um monte de
+00:13:15,000 --> 00:13:17,000
+Caralho, queria te ir, né?
 
 369
-00:15:52,299 --> 00:15:55,779
-informação dessas empresas e que daí a gente fala para os nossos funcionários.
+00:13:17,000 --> 00:13:19,000
+Tá ficando quenhe.
 
 370
-00:15:55,779 --> 00:15:57,219
-Essa fase é fechada, é fechada.
+00:13:21,000 --> 00:13:24,000
+Escatam com a memorando.
 
 371
-00:15:57,219 --> 00:15:58,219
-É fechada.
+00:13:29,000 --> 00:13:31,000
+Faça a sua melhor cantada.
 
 372
-00:15:58,219 --> 00:16:00,219
-Exato, é animal, é lindo, é isso?
+00:13:31,000 --> 00:13:34,000
+Gata, eu queria hoje estar apresentando o show no lugar do rap, sabe por quê?
 
 373
-00:16:00,219 --> 00:16:03,740
-Então, no lugar da pessoa e lá, a fazer uma consulta, não vou pedir dar pra saber como
+00:13:34,000 --> 00:13:35,000
+Por quê?
 
 374
-00:16:03,740 --> 00:16:04,740
-o Google está lá, não.
+00:13:35,000 --> 00:13:38,000
+Porque eu queria chegar naquela parte de gente pergonso.
 
 375
-00:16:04,740 --> 00:16:06,740
-Só a pergunta no Tocan, e ele vai responder.
+00:13:38,000 --> 00:13:41,000
+Qualquer essa melhor posição e descobrir isso é que você gosta de verdade.
 
 376
-00:16:06,740 --> 00:16:11,479
-E daí a gente é orienta fortemente que as pessoas usam em sol, Tocan, mais as ferramentas
+00:13:44,000 --> 00:13:46,000
+Vai lá pra trás, cheio, vai lá pra...
 
 377
-00:16:11,479 --> 00:16:12,479
-internas.
+00:13:47,000 --> 00:13:48,000
+Vai lá pra trás.
 
 378
-00:16:12,479 --> 00:16:17,279
-Então, não deveriam, a gente não probeinar, mas não deveriam usar o chat IPT, nem
+00:13:48,000 --> 00:13:49,000
+Fui bom?
 
 379
-00:16:17,279 --> 00:16:18,899
-prescreveam em meio, porque não preciso.
+00:13:51,000 --> 00:13:54,000
+Ele falou assim, eu queria estar no lugar do rap,
 
 380
-00:16:18,899 --> 00:16:19,899
-Tendia?
+00:13:54,000 --> 00:14:00,000
+só pra chegar na hora de perguntar qual a sua melhor posição e descobrir se essa sua posição
 
 381
-00:16:19,899 --> 00:16:20,899
-Não, não vou.
+00:14:00,000 --> 00:14:02,000
+de verdade do tipo, ele vai perguntar.
 
 382
-00:16:20,899 --> 00:16:21,899
-Fala sentido.
+00:14:02,000 --> 00:14:04,000
+Ninguém entendeu também não.
 
 383
-00:16:21,899 --> 00:16:23,500
-Aí, você que está assistindo esse vídeo aqui no tal que flow.
+00:14:05,000 --> 00:14:07,000
+Eu também não entendi gente, discurgo.
 
 384
-00:16:23,500 --> 00:16:25,779
-Dá pra você virar a membro, cara, do flow agora.
+00:14:07,000 --> 00:14:10,000
+Ele já foi lá pra trás, vamos parar de humilhação.
 
 385
-00:16:25,779 --> 00:16:28,179
-É um botãozinho do lado do botão de se inscrever.
+00:14:11,000 --> 00:14:13,000
+Faça seu segundo, melhor vez.
 
 386
-00:16:28,179 --> 00:16:30,539
-A gente faz um programa se marar, só pros membros.
+00:14:15,000 --> 00:14:17,000
+Faça sua melhor cantada.
 
 387
-00:16:30,539 --> 00:16:31,539
-Fala mesmo.
+00:14:17,000 --> 00:14:20,000
+Dicantado eu não sou muito bom não, mas você usa creme.
 
 388
-00:16:31,539 --> 00:16:33,939
-Então, a gente perta esse que quiser virar a membro, também que do lado é mome herco,
+00:14:21,000 --> 00:14:23,000
+Use a creme?
 
 389
-00:16:33,939 --> 00:16:36,419
-que está excite menos de 8 reais, irmão.
+00:14:23,000 --> 00:14:25,000
+Use a creme, por quê?
+
+390
+00:14:25,000 --> 00:14:26,000
+E eu sei.
+
+391
+00:14:30,000 --> 00:14:31,000
+Não é ruim.
+
+392
+00:14:33,000 --> 00:14:36,000
+Vai lá pra trás.
+
+393
+00:14:38,000 --> 00:14:41,000
+Foi foda pra goderem falar que não é bom de cantada, né?
+
+394
+00:14:41,000 --> 00:14:43,000
+Aí ele já vai ser hoje novo.
+
+395
+00:14:43,000 --> 00:14:45,000
+Poxa, é como momento mais delicado.
+
+396
+00:14:45,000 --> 00:14:49,000
+Tem cinco possibilidades, tá?
+
+397
+00:14:49,000 --> 00:14:51,000
+Uma possibilidade.
+
+398
+00:14:52,000 --> 00:14:54,000
+De um segundo vez.
+
+399
+00:14:55,000 --> 00:14:58,000
+Mas possibilidade de um um trado, torne fibras.
+
+400
+00:14:59,000 --> 00:15:03,000
+Uma senhora cantada da tipóca, cheio incrível também.
+
+401
+00:15:03,000 --> 00:15:06,000
+Um foco decisão e um...
+
+402
+00:15:08,000 --> 00:15:10,000
+E um cara que é dedicado.
+
+403
+00:15:11,000 --> 00:15:14,000
+Que ele é empenhado, que é capaz de ter que parar o sexo
+
+404
+00:15:14,000 --> 00:15:15,000
+pra poder fazer o...
+
+405
+00:15:17,000 --> 00:15:18,000
+Só na bombinha.
+
+406
+00:15:19,000 --> 00:15:20,000
+Um, tá na bombinha.
+
+407
+00:15:21,000 --> 00:15:22,000
+Vai lá.
+
+408
+00:15:22,000 --> 00:15:24,000
+Ele me na colocando a mão no número.
+
+409
+00:15:25,000 --> 00:15:26,000
+Pode?
+
+410
+00:15:29,000 --> 00:15:32,000
+Por mim, ninguém imaginava.
+
+411
+00:15:37,000 --> 00:15:39,000
+É verdade, ele já beijo por...
+
+412
+00:15:40,000 --> 00:15:42,000
+E perdeu o sambagouana.
+
+413
+00:15:42,000 --> 00:15:44,000
+Fui tá aqui, valeu.
+
+414
+00:15:44,000 --> 00:15:45,000
+Vai lá.
+
+415
+00:15:48,000 --> 00:15:49,000
+O que foi?
+
+416
+00:15:49,000 --> 00:15:53,000
+Ele ficou sem as duas pessoas que eu teve ficado com ela, que ia trazer outra.
+
+417
+00:15:55,000 --> 00:15:58,000
+Por favor, eu sei dela que ela encrenquera, né?
+
+418
+00:15:58,000 --> 00:15:59,000
+Vai lá.
+
+419
+00:15:59,000 --> 00:16:01,000
+Deixa eu um, deixa eu um.
+
+420
+00:16:01,000 --> 00:16:02,000
+Caralho.
+
+421
+00:16:03,000 --> 00:16:05,000
+Perdê-o, por bom bem, cara.
+
+422
+00:16:07,000 --> 00:16:08,000
+Vai lá.
+
+423
+00:16:09,000 --> 00:16:13,000
+Na... porra.
+
+424
+00:16:15,000 --> 00:16:18,000
+Ou ela não te viu aí.
+
+425
+00:16:19,000 --> 00:16:22,000
+Temos duas pessoas saudáveis e o bom bem.
+
+426
+00:16:23,000 --> 00:16:25,000
+Vamos ver se ele é lucido.
+
+427
+00:16:26,000 --> 00:16:27,000
+Vai lá.
+
+428
+00:16:30,000 --> 00:16:32,000
+Pude tá aqui, pario.
+
+429
+00:16:32,000 --> 00:16:33,000
+Pude, pario.
+
+430
+00:16:36,000 --> 00:16:37,000
+A pipoca não era alguma, né?
+
+431
+00:16:38,000 --> 00:16:39,000
+Pipe, pô, que ela faz em casa.
+
+432
+00:16:41,000 --> 00:16:42,000
+Pipe.
+
+433
+00:16:42,000 --> 00:16:44,000
+Oi, de novo, essa é a indira, foi desistir.
+
+434
+00:16:45,000 --> 00:16:47,000
+Pô, está, sei como que conta bom, pode estar sem...
+
+435
+00:16:47,000 --> 00:16:49,000
+Não, sem conta, mas colas.
+
+436
+00:16:49,000 --> 00:16:51,000
+Ele quer, sei como que toma, sem conta pra tudo desistir.
+
+437
+00:16:52,000 --> 00:16:54,000
+Cara, olha só, isso é esse final.
+
+438
+00:16:54,000 --> 00:16:56,000
+Nem os melhores roteiristas de Netflix.
+
+439
+00:16:57,000 --> 00:16:59,000
+Preparariam o final desse.
+
+440
+00:17:02,000 --> 00:17:05,000
+Vou casar sem conta no tegrinho contigo.
+
+441
+00:17:06,000 --> 00:17:08,000
+Ai, eu acho que é você.
+
+442
+00:17:09,000 --> 00:17:11,000
+Não por nada, sabe, vamos dizer mais pelo...
+
+443
+00:17:11,000 --> 00:17:12,000
+Piste, sei.
+
+444
+00:17:13,000 --> 00:17:15,000
+Vamos ver o que que vai dar.
+
+445
+00:17:15,000 --> 00:17:17,000
+Tinha fazer uma cabeça dela aqui, vem carpe de...
+
+446
+00:17:19,000 --> 00:17:21,000
+Tá, tem alguém, né?
+
+447
+00:17:21,000 --> 00:17:23,000
+Tá cortando a conta sendo muita coisa que...
+
+448
+00:17:24,000 --> 00:17:27,000
+Se ele vai a pessoa tão longe pra desistir dela,
+
+449
+00:17:28,000 --> 00:17:30,000
+pode prejudicar a respiração da...
+
+450
+00:17:32,000 --> 00:17:35,000
+Então assim, podia ter eliminado lá no início.
+
+451
+00:17:36,000 --> 00:17:40,000
+Então, deixa aquele que você fala assim, esse eu pego.
+
+452
+00:17:47,000 --> 00:17:49,000
+Deixa um, deixa aquele que você quer.
+
+453
+00:17:49,000 --> 00:17:51,000
+Aquele que você vai dar um beijo na boca agora.
+
+454
+00:17:54,000 --> 00:17:56,000
+Porque vem, puxando o bom, já ou bom, mim.
+
+455
+00:17:56,000 --> 00:17:59,000
+Puta aqui, pariu!
+
+456
+00:18:02,000 --> 00:18:03,000
+Você não está...
+
+457
+00:18:03,000 --> 00:18:06,000
+É pode ser caralho, ele mim.
+
+458
+00:18:07,000 --> 00:18:11,000
+Faz a bomba, faz a bomba.
+
+459
+00:18:11,000 --> 00:18:13,000
+Me dá um tegrinho, não tá aqui.
+
+460
+00:18:14,000 --> 00:18:17,000
+Tinha aqui, cara.
+
+461
+00:18:18,000 --> 00:18:20,000
+Nem deixa ela tiver muito de frente agora, que você?
+
+462
+00:18:21,000 --> 00:18:22,000
+Foi muito bem.
+
+463
+00:18:22,000 --> 00:18:25,000
+Nem deixa ela tiver muito de frente agora, que você?
+
+464
+00:18:26,000 --> 00:18:29,000
+Foi luz, foi câmera, ação.
+
+465
+00:18:53,000 --> 00:18:56,000
+Não, cara, ele nunca chegou nessa parte, né?
+
+466
+00:19:09,000 --> 00:19:10,000
+Beijora?
+
+467
+00:19:11,000 --> 00:19:13,000
+Beijora, beijora!
+
+468
+00:19:15,000 --> 00:19:16,000
+Esse cria é eu...
+
+469
+00:19:17,000 --> 00:19:19,000
+Se ele voltar e pode mostrar como faz...
+
+470
+00:19:19,000 --> 00:19:22,000
+Fãe, vou...
+
+471
+00:19:25,000 --> 00:19:27,000
+Já sai, cara!
+
+472
+00:19:28,000 --> 00:19:30,000
+Puta aqui, pariu!
+
+473
+00:19:31,000 --> 00:19:33,000
+Puta aqui, pariu!
+
+474
+00:19:41,000 --> 00:19:43,000
+Dá aí tocar uma escadinha, não.
+
+475
+00:19:43,000 --> 00:19:45,000
+Apaga luz para eles.
+
+476
+00:19:50,000 --> 00:19:52,000
+Deixa bem, esse curo para ela não ver, muito.
+
+477
+00:19:53,000 --> 00:19:54,000
+Ação!
+
+478
+00:20:03,000 --> 00:20:05,000
+Sama de palmas!
 

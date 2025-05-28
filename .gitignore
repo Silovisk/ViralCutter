@@ -3,3 +3,10 @@ tmp/*.mp4
 tmp/venv/
 tmp/
 *.mp4
+subs
+subs_ass
+tmp/*.srt
+tmp/*.tsv
+export_cookies.py
+
+
