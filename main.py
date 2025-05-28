@@ -28,28 +28,28 @@ azul_claro = "E6D8AD"
 verde = "0FF00"
 
 # Subtitle variables
-fonte = "Arial" #Arial, Times New Roman #No colab acho que todas do Google Fonts, no Windows/Linux as instaladas no seu sistema
-base_size = 12 #12
+fonte = "Arial Black" #Arial, Times New Roman #No colab acho que todas do Google Fonts, no Windows/Linux as instaladas no seu sistema
+base_size = 18 #12
 base_color_t = "00" # 00= totalmente opaco, 80=  50% transparente, FF= Totalmente transparente
-base_color = f"&H{base_color_t}" + "FFFFFF" + "&" #FFFFFF (branco) ou 00FFFF (amarelo)
-contorno_t = "FF" # 00= totalmente opaco, 80=  50% transparente, FF= Totalmente transparente
-contorno = f"&H{contorno_t}" + "808080" + "&" #808080
-h_size = 14 #14 (Default)
-palavras_por_bloco = 3 #5 (Default)
-limite_gap = 0.5 #0.5 (Default)
+base_color = f"&H{base_color_t}" + branco + "&" #FFFFFF (branco) ou 00FFFF (amarelo)
+contorno_t = "00" # 00= totalmente opaco, 80=  50% transparente, FF= Totalmente transparente
+contorno = f"&H{contorno_t}" + preto + "&" #808080
+h_size = 24 #14 (Default)
+palavras_por_bloco = 2 #5 (Default)
+limite_gap = 0.3 #0.5 (Default)
 modo = 'highlight' #sem_higlight, palavra_por_palavra, highlight
 highlight_color_t = "00" # 00= totalmente opaco, 80=  50% transparente, FF= Totalmente transparente
-highlight_color = f"&H{highlight_color_t}" + "0FF00" + "&" #0FF00
-posicao_vertical = 60 # Divide de 1 à 5 contando um no topo. 1=170, 2=130, 3=99, 4=60 (default), 5=20
-cor_da_sombra_t = "00" # 00= totalmente opaco, 80=  50% transparente, FF= Totalmente transparente
-cor_da_sombra = f"&H{cor_da_sombra_t}" + "000000" + "&" #000000
+highlight_color = f"&H{highlight_color_t}" + vermelho + "&" #0FF00
+posicao_vertical = 20 # Divide de 1 à 5 contando um no topo. 1=170, 2=130, 3=99, 4=60 (default), 5=20
+cor_da_sombra_t = "60" # 00= totalmente opaco, 80=  50% transparente, FF= Totalmente transparente
+cor_da_sombra = f"&H{cor_da_sombra_t}" + preto + "&" #000000
 alinhamento = 2 #1= Esquerda, 2= Centro (default), 3= Direita
-negrito = 0 #(1 para ativar, 0 para desativar)
+negrito = 1 #(1 para ativar, 0 para desativar)
 italico = 0 #(1 para ativar, 0 para desativar)
 sublinhado = 0 #(1 para ativar, 0 para desativar)
 tachado = 0 #(1 para ativar, 0 para desativar)
 estilo_da_borda = 3 #(1 para contorno, 3 para caixa).
-espessura_do_contorno = 1.5 #1.5 (Default)
+espessura_do_contorno = 3.5 #1.5 (Default)
 tamanho_da_sombra = 10 #10 (Default)
 
 # Burn subtitles option
